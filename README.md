@@ -4,8 +4,9 @@
 A free 37-episode story course on the iTV YouTube channel by Surge Software Solutions, Bengaluru, with reading notes, slides,
 exercises with answers, and sample data for every episode.
 
-**Videos:** publishing on iTV
-
+**Watch the full playlist:** https://www.youtube.com/playlist?list=PLBsYB0qLaFoc
+  
+**60-second Shorts:** https://www.youtube.com/playlist?list=PLLKdmtklg1io
 
 ## The story
 Kavya, a new marketing technologist, joins **Bloom**, a direct-to-consumer wellness brand with 1.2 million customers spread across
@@ -28,12 +29,12 @@ Bloom, its people and its customers are fictional.
 ## Episodes
 | # | Episode | Video | Notes | Slides | Exercise |
 |---|---|---|---|---|---|
-| 01 | What Is Adobe Experience Platform? CDP Explained | soon | [Notes](episodes/ep01-what-is-adobe-experience-platform-cdp-explained/) | [Slides](episodes/ep01-what-is-adobe-experience-platform-cdp-explained/slides.pdf) | [Exercise](episodes/ep01-what-is-adobe-experience-platform-cdp-explained/exercise.md) |
-| 02 | AEP Architecture: Data Lake vs Profile Store | soon | [Notes](episodes/ep02-aep-architecture-data-lake-vs-profile-store/) | [Slides](episodes/ep02-aep-architecture-data-lake-vs-profile-store/slides.pdf) | [Exercise](episodes/ep02-aep-architecture-data-lake-vs-profile-store/exercise.md) |
-| 03 | XDM Schema Explained: Why Orders Are Events | soon | [Notes](episodes/ep03-xdm-schema-explained-why-orders-are-events/) | [Slides](episodes/ep03-xdm-schema-explained-why-orders-are-events/slides.pdf) | [Exercise](episodes/ep03-xdm-schema-explained-why-orders-are-events/exercise.md) |
-| 04 | AEP Schema Tutorial: Identities and Profile | soon | [Notes](episodes/ep04-aep-schema-tutorial-identities-and-profile/) | [Slides](episodes/ep04-aep-schema-tutorial-identities-and-profile/slides.pdf) | [Exercise](episodes/ep04-aep-schema-tutorial-identities-and-profile/exercise.md) |
-| 05 | AEP Data Ingestion Tutorial: Batch vs Streaming | soon | [Notes](episodes/ep05-aep-data-ingestion-tutorial-batch-vs-streaming/) | [Slides](episodes/ep05-aep-data-ingestion-tutorial-batch-vs-streaming/slides.pdf) | [Exercise](episodes/ep05-aep-data-ingestion-tutorial-batch-vs-streaming/exercise.md) |
-| 06 | AEP Batch Loaded 0 Rows? Partial Ingestion Fix | soon | [Notes](episodes/ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/) | [Slides](episodes/ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/slides.pdf) | [Exercise](episodes/ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/exercise.md) |
+| 01 | What Is Adobe Experience Platform? CDP Explained | [Watch](https://youtu.be/5ddhP_wBBG0) | [Notes](episodes/ep01-what-is-adobe-experience-platform-cdp-explained/) | [Slides](episodes/ep01-what-is-adobe-experience-platform-cdp-explained/slides.pdf) | [Exercise](episodes/ep01-what-is-adobe-experience-platform-cdp-explained/exercise.md) |
+| 02 | AEP Architecture: Data Lake vs Profile Store | [Watch](https://youtu.be/33Dob_DQRKE) | [Notes](episodes/ep02-aep-architecture-data-lake-vs-profile-store/) | [Slides](episodes/ep02-aep-architecture-data-lake-vs-profile-store/slides.pdf) | [Exercise](episodes/ep02-aep-architecture-data-lake-vs-profile-store/exercise.md) |
+| 03 | XDM Schema Explained: Why Orders Are Events | [Watch](https://youtu.be/IrMvTAQzOP4) | [Notes](episodes/ep03-xdm-schema-explained-why-orders-are-events/) | [Slides](episodes/ep03-xdm-schema-explained-why-orders-are-events/slides.pdf) | [Exercise](episodes/ep03-xdm-schema-explained-why-orders-are-events/exercise.md) |
+| 04 | AEP Schema Tutorial: Identities and Profile | [Watch](https://youtu.be/P-3RWATuoi8) | [Notes](episodes/ep04-aep-schema-tutorial-identities-and-profile/) | [Slides](episodes/ep04-aep-schema-tutorial-identities-and-profile/slides.pdf) | [Exercise](episodes/ep04-aep-schema-tutorial-identities-and-profile/exercise.md) |
+| 05 | AEP Data Ingestion Tutorial: Batch vs Streaming | [Watch](https://youtu.be/bCbsbUXLKtw) | [Notes](episodes/ep05-aep-data-ingestion-tutorial-batch-vs-streaming/) | [Slides](episodes/ep05-aep-data-ingestion-tutorial-batch-vs-streaming/slides.pdf) | [Exercise](episodes/ep05-aep-data-ingestion-tutorial-batch-vs-streaming/exercise.md) |
+| 06 | AEP Batch Loaded 0 Rows? Partial Ingestion Fix | [Watch](https://youtu.be/wmQrnu4q3Q0) | [Notes](episodes/ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/) | [Slides](episodes/ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/slides.pdf) | [Exercise](episodes/ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/exercise.md) |
 | 07 | AEP Identity Stitching and the Identity Graph | soon | [Notes](episodes/ep07-aep-identity-stitching-identity-graph/) | [Slides](episodes/ep07-aep-identity-stitching-identity-graph/slides.pdf) | [Exercise](episodes/ep07-aep-identity-stitching-identity-graph/exercise.md) |
 | 08 | AEP Real-Time Customer Profile & Merge Policy | soon | [Notes](episodes/ep08-aep-real-time-customer-profile-merge-policy/) | [Slides](episodes/ep08-aep-real-time-customer-profile-merge-policy/slides.pdf) | [Exercise](episodes/ep08-aep-real-time-customer-profile-merge-policy/exercise.md) |
 | 09 | AEP 'No Profiles Found'? Debug an Empty Profile | soon | [Notes](episodes/ep09-aep-no-profiles-found-debug-an-empty-profile/) | [Slides](episodes/ep09-aep-no-profiles-found-debug-an-empty-profile/slides.pdf) | [Exercise](episodes/ep09-aep-no-profiles-found-debug-an-empty-profile/exercise.md) |

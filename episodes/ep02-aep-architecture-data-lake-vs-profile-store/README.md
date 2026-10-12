@@ -1,6 +1,6 @@
 # Episode 02: AEP Architecture: Data Lake vs Profile Store
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 2 on YouTube](https://youtu.be/33Dob_DQRKE)
 
 Part 1: Know your customer (AEP and Real-Time CDP) · [Previous](../ep01-what-is-adobe-experience-platform-cdp-explained/) · [Next](../ep03-xdm-schema-explained-why-orders-are-events/)
 

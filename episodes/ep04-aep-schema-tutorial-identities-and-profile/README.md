@@ -1,6 +1,6 @@
 # Episode 04: AEP Schema Tutorial: Identities and Profile
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 4 on YouTube](https://youtu.be/P-3RWATuoi8)
 
 Part 1: Know your customer (AEP and Real-Time CDP) · [Previous](../ep03-xdm-schema-explained-why-orders-are-events/) · [Next](../ep05-aep-data-ingestion-tutorial-batch-vs-streaming/)
 

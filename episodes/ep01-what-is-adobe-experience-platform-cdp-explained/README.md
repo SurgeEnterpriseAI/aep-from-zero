@@ -1,6 +1,6 @@
 # Episode 01: What Is Adobe Experience Platform? CDP Explained
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 1 on YouTube](https://youtu.be/5ddhP_wBBG0)
 
 Part 1: Know your customer (AEP and Real-Time CDP) · Previous: none, this is episode 1 · [Next](../ep02-aep-architecture-data-lake-vs-profile-store/)
 

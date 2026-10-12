@@ -1,6 +1,6 @@
 # Episode 03: XDM Schema Explained: Why Orders Are Events
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 3 on YouTube](https://youtu.be/IrMvTAQzOP4)
 
 Part 1: Know your customer (AEP and Real-Time CDP) · [Previous](../ep02-aep-architecture-data-lake-vs-profile-store/) · [Next](../ep04-aep-schema-tutorial-identities-and-profile/)
 

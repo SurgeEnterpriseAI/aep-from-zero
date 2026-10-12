@@ -1,6 +1,6 @@
 # Episode 05: AEP Data Ingestion Tutorial: Batch vs Streaming
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 5 on YouTube](https://youtu.be/bCbsbUXLKtw)
 
 Part 1: Know your customer (AEP and Real-Time CDP) · [Previous](../ep04-aep-schema-tutorial-identities-and-profile/) · [Next](../ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/)
 

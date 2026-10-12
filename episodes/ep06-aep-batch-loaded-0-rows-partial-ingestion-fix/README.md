@@ -1,6 +1,6 @@
 # Episode 06: AEP Batch Loaded 0 Rows? Partial Ingestion Fix
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 6 on YouTube](https://youtu.be/wmQrnu4q3Q0)
 
 [Previous](../ep05-aep-data-ingestion-tutorial-batch-vs-streaming/) · [Next](../ep07-aep-identity-stitching-identity-graph/)
 
