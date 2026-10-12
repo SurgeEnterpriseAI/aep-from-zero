@@ -1,0 +1,47 @@
+{
+  "_id": "evt-order-20260818-088412",
+  "timestamp": "2026-08-18T19:52:47Z",
+  "eventType": "commerce.purchases",
+  "identityMap": {
+    "Email": [
+      { "id": "priya.sharma@example.com", "primary": true }
+    ],
+    "BloomID": [
+      { "id": "BLM-CUST-004217" }
+    ]
+  },
+  "commerce": {
+    "purchases": {
+      "value": 1
+    },
+    "order": {
+      "purchaseID": "BLM-88412",
+      "priceTotal": 54.00,
+      "currencyCode": "USD",
+      "payments": [
+        { "paymentType": "credit_card", "paymentAmount": 54.00 }
+      ]
+    }
+  },
+  "productListItems": [
+    {
+      "SKU": "BLM-SER-VITC-30",
+      "name": "Vitamin C Serum 30 ml",
+      "priceTotal": 34.00,
+      "quantity": 1
+    },
+    {
+      "SKU": "BLM-MOIST-HYA-50",
+      "name": "Hyaluronic Moisturiser 50 ml",
+      "priceTotal": 20.00,
+      "quantity": 1
+    }
+  ],
+  "_bloom": {
+    "order": {
+      "shippingCity": "Dallas",
+      "shippingState": "TX",
+      "firstPurchase": false
+    }
+  }
+}

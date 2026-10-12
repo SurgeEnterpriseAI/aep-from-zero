@@ -1,0 +1,13 @@
+dataset,row,time_utc,profile,node,what_happened
+Journey step events,1,Mon 09:00,TD-KAVYA-01,"Entry: audience qualification, New This Month",Entered
+Journey step events,2,Mon 09:00,TD-KAVYA-01,Optimize,Took the Gold Members path
+Journey step events,3,Mon 09:00,TD-KAVYA-01,Action: welcome email (Gold),Executed
+Journey step events,4,Mon 09:00,TD-KAVYA-01,Wait: 2 days,Started
+Journey step events,5,Mon 09:02,TD-FARHAN-02,"Entry: audience qualification, New This Month",Entered
+Journey step events,6,Mon 09:02,TD-FARHAN-02,Optimize,Took the Others path
+Journey step events,7,Mon 09:02,TD-FARHAN-02,Wait: 2 days,Started
+Journey step events,8,Mon 09:04,TD-ROHAN-04,"Entry: audience qualification, New This Month",Entered
+Journey step events,9,Mon 09:04,TD-ROHAN-04,Optimize,Took the Others path
+Journey step events,10,Mon 09:04,TD-ROHAN-04,Wait: 2 days,Started
+Message feedback,,Mon 09:01,TD-KAVYA-01,welcome email (Gold),Sent
+Email tracking,,Mon 09:30,TD-KAVYA-01,welcome email (Gold),Open

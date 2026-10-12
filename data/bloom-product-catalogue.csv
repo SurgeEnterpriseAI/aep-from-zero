@@ -1,0 +1,11 @@
+sku,product_name,category,list_price_usd,image_url,description
+BLM-SER-VITC-30,Vitamin C Serum 30 ml,Skincare,34.00,images/BLM-SER-VITC-30.jpg,"A lightweight daily serum with vitamin C. Use in the morning, before moisturiser and sunscreen."
+BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,Skincare,20.00,images/BLM-MOIST-HYA-50.jpg,"A daily moisturiser with hyaluronic acid, for all skin types. Use morning and evening."
+BLM-SER-RET-30,Retinol Night Serum 30 ml,Skincare,42.00,images/BLM-SER-RET-30.jpg,"An evening serum with retinol. Use at night, two or three times a week to start, and wear sunscreen by day."
+BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,Skincare,16.00,images/BLM-CLN-GEL-150.jpg,A gentle foaming face cleanser for morning and evening.
+BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,Skincare,24.00,images/BLM-MSK-CLAY-100.jpg,A clay face mask for once or twice a week. Rinse off after ten minutes.
+BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,Skincare,26.00,images/BLM-SPF-MIN-50.jpg,"A mineral sunscreen, SPF 50, for daily use as the last step of a morning routine."
+BLM-LIP-BALM-08,Repair Lip Balm 8 ml,Skincare,9.00,images/BLM-LIP-BALM-08.jpg,A lip balm for dry lips. Use as often as needed.
+BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,Supplements,28.00,images/BLM-SUP-OMG3-60.jpg,"Omega-3 capsules, 60 per pack. A food supplement, not a substitute for a varied diet."
+BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,Supplements,22.00,images/BLM-SUP-MULTI-90.jpg,"A daily multivitamin, 90 tablets per pack. A food supplement, not a substitute for a varied diet."
+BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,Supplements,38.00,images/BLM-SUP-COLL-30.jpg,"Collagen powder in 30 single sachets, to stir into a drink. A food supplement, not a substitute for a varied diet."

@@ -1,0 +1,501 @@
+bloom_id,email,first_name,last_name,phone,loyalty_tier,loyalty_points,join_date,city,state,country,email_consent,sms_consent,push_consent
+BLM-CUST-004217,priya.sharma@example.com,Priya,Sharma,+1-469-555-0142,Gold,2340,2023-11-02,Dallas,TX,US,true,false,true
+BLM-CUST-000002,liam.iyer2@example.com,Liam,Iyer,202.555.0102,Bronze,259,2026-08-28,Boston,MA,US,true,false,false
+BLM-CUST-000003,liam.iyer2@example.com,Aditya,Moore,1-203-555-0103,Bronze,56,2022-07-25,Seattle,WA,US,false,false,true
+BLM-CUST-000004,liam.iyer2@example.com,Owen,Brown,204.555.0104,Bronze,116,2021-06-08,Boston,MA,US,true,false,true
+BLM-CUST-000005,ling.zhang5@example.com,Ling,Zhang,2055550105,Gold,3354,2026-04-25,Newark,NJ,US,true,false,true
+BLM-CUST-000006,Noah.reddy6@example.com,Noah,Reddy,+1-206-555-0106,Gold,5828,2026-07-12,Raleigh,NC,US,true,false,true
+BLM-CUST-000007,olivia.garcia7@example.com,Olivia,Garcia,+1-207-555-0107,Bronze,56,2023-04-17,Chicago,IL,US,true,false,false
+BLM-CUST-000008,chloe.davis8@example.com,Chloe,Davis,1-208-555-0108,Bronze,166,2025-03-11,San Jose,CA,US,true,false,false
+BLM-CUST-000009,sofia.iyer9@example.com,Sofia,Iyer,2095550109,Silver,1181,2023-01-21,Chicago,IL,US,false,false,false
+BLM-CUST-000010,aarav.kim10@example.com,Aarav,Kim,210.555.0110,Silver,1229,2024-05-09,Columbus,OH,US,false,false,false
+BLM-CUST-000011,noah.liu11@example.com,Noah,Liu,(211) 555-0111,Silver,747,2024-07-07,Miami,FL,US,false,true,true
+BLM-CUST-000012,amelia.johnson12@example.com,Amelia,Johnson,2125550112,Bronze,260,2026-04-12,Denver,CO,US,true,true,true
+BLM-CUST-000013,Sofia.nguyen13@example.com,Sofia,Nguyen,(213) 555-0113,Silver,763,2024-03-14,Phoenix,AZ,US,true,false,false
+BLM-CUST-000014,dhruv.tanaka14@example.com,Dhruv,Tanaka,(214) 555-0114,Gold,4722,2023-09-25,Phoenix,AZ,US,true,false,true
+BLM-CUST-000015,ava.wang15@example.com,Ava,Wang,1-215-555-0115,Bronze,196,2021-05-08,Miami,FL,US,true,true,true
+BLM-CUST-000016,priya.bose16@example.com,Priya,Bose,(216) 555-0116,Silver,1189,2024-10-16,Boston,MA,US,true,false,true
+BLM-CUST-000017,anaya.rao17@example.com,Anaya,Rao,+1-217-555-0117,Bronze,482,2024-09-02,Portland,OR,US,false,false,true
+BLM-CUST-000018,arjun.rao18@example.com,Arjun,Rao,218.555.0118,Bronze,61,2026-01-15,San Jose,CA,US,true,false,true
+BLM-CUST-000019,arjun.liu19@example.com,Arjun,Liu,219.555.0119,Bronze,334,2022-12-13,Houston,TX,US,false,false,false
+BLM-CUST-000020,henry.park20@example.com,Henry,Park,220.555.0120,Bronze,71,2022-02-15,Denver,CO,US,true,true,false
+BLM-CUST-000021,aarav.sharma21@example.com,Aarav,Sharma,(221) 555-0121,Gold,3560,2021-06-16,Atlanta,GA,US,false,true,true
+BLM-CUST-000022,Isha.patel22@example.com,Isha,Patel,(222) 555-0122,Silver,1208,2023-12-04,Phoenix,AZ,US,true,false,false
+BLM-CUST-000023,ishaan.moore23@example.com,Ishaan,Moore,2235550123,Silver,907,2025-08-24,Chicago,IL,US,true,true,false
+BLM-CUST-000024,vihaan.jones24@example.com,Vihaan,Jones,2245550124,Bronze,479,2023-08-16,Seattle,WA,US,true,true,false
+BLM-CUST-000025,chloe.sato25@example.com,Chloe,Sato,2255550125,Bronze,254,2026-03-18,Columbus,OH,US,true,true,false
+BLM-CUST-000026,Isha.patel22@example.com,Kabir,Liu,1-226-555-0126,Silver,1371,2025-01-12,San Jose,CA,US,true,true,true
+BLM-CUST-000027,ella.nguyen27@example.com,Ella,Nguyen,227.555.0127,Bronze,356,2024-09-15,Newark,NJ,US,true,false,false
+BLM-CUST-000028,arjun.brown28@example.com,Arjun,Brown,1-228-555-0128,Bronze,438,2025-05-02,Newark,NJ,US,true,true,true
+BLM-CUST-000029,Grace.bose29@example.com,Grace,Bose,+1-229-555-0129,Silver,1457,2024-08-21,Raleigh,NC,US,true,true,false
+BLM-CUST-000030,noah.wilson30@example.com,Noah,Wilson,(230) 555-0130,Bronze,471,2021-03-18,Phoenix,AZ,US,false,false,false
+BLM-CUST-000031,ling.bose31@example.com,Ling,Bose,+1-231-555-0131,Bronze,205,2026-06-26,Boston,MA,US,true,false,true
+BLM-CUST-000032,ethan.kapoor32@example.com,Ethan,Kapoor,(232) 555-0132,Bronze,395,2023-07-14,Phoenix,AZ,US,true,false,false
+BLM-CUST-000033,james.tanaka33@example.com,James,Tanaka,(233) 555-0133,Bronze,379,2022-04-01,Atlanta,GA,US,true,true,false
+BLM-CUST-000034,grace.zhang34@example.com,Grace,Zhang,+1-234-555-0134,Gold,2863,2022-09-17,Houston,TX,US,true,false,false
+BLM-CUST-000035,ishaan.johnson35@example.com,Ishaan,Johnson,1-235-555-0135,Bronze,421,2024-06-10,Newark,NJ,US,true,true,false
+BLM-CUST-000036,riya.liu36@example.com,Riya,Liu,+1-236-555-0136,Bronze,121,2026-02-25,Chicago,IL,US,true,false,false
+BLM-CUST-000037,hiro.li37@example.com,Hiro,Li,2375550137,Bronze,380,2025-05-25,Columbus,OH,US,true,false,false
+BLM-CUST-000038,vivaan.smith38@example.com,Vivaan,Smith,+1-238-555-0138,Silver,726,2026-04-08,Houston,TX,US,true,false,true
+BLM-CUST-000039,isha.wilson39@example.com,Isha,Wilson,2395550139,Silver,558,2022-08-09,Portland,OR,US,true,false,false
+BLM-CUST-000040,chen.chen40@example.com,Chen,Chen,240.555.0140,Silver,895,2023-10-19,Columbus,OH,US,true,true,true
+BLM-CUST-000041,Lucas.liu41@example.com,Lucas,Liu,+1-241-555-0141,Gold,5959,2021-01-13,Raleigh,NC,US,false,true,false
+BLM-CUST-000042,Ava.iyer42@example.com,Ava,Iyer,+1-242-555-0142,Silver,1080,2021-12-15,Chicago,IL,US,false,false,true
+BLM-CUST-000043,mia.nguyen43@example.com,Mia,Nguyen,1-243-555-0143,Silver,1018,2024-07-15,Phoenix,AZ,US,true,false,false
+BLM-CUST-000044,mia.smith44@example.com,Mia,Smith,2445550144,Bronze,59,2025-03-18,Columbus,OH,US,true,false,false
+BLM-CUST-000045,sara.johnson45@example.com,Sara,Johnson,(245) 555-0145,Bronze,165,2023-05-08,Dallas,TX,US,true,false,false
+BLM-CUST-000046,Maya.reddy46@example.com,Maya,Reddy,1-246-555-0146,Bronze,297,2023-06-23,Portland,OR,US,true,false,false
+BLM-CUST-000047,mason.sharma47@example.com,Mason,Sharma,+1-247-555-0147,Bronze,268,2024-10-14,Boston,MA,US,false,true,false
+BLM-CUST-000048,maya.rao48@example.com,Maya,Rao,248.555.0148,Silver,880,2025-11-05,Atlanta,GA,US,true,false,true
+BLM-CUST-000049,ethan.nguyen49@example.com,Ethan,Nguyen,+1-249-555-0149,Bronze,455,2021-03-25,Phoenix,AZ,US,true,false,true
+BLM-CUST-000050,advait.reddy50@example.com,Advait,Reddy,250.555.0150,Bronze,106,2022-04-06,Miami,FL,US,true,false,true
+BLM-CUST-000051,advait.davis51@example.com,Advait,Davis,(251) 555-0151,Bronze,366,2025-08-26,Portland,OR,US,false,false,false
+BLM-CUST-000052,ava.wang15@example.com,James,Tanaka,252.555.0152,Bronze,352,2026-08-26,Austin,TX,US,true,true,true
+BLM-CUST-000053,mateo.smith53@example.com,Mateo,Smith,2535550153,Bronze,125,2026-02-09,Austin,TX,US,true,true,false
+BLM-CUST-000054,anaya.reddy54@example.com,Anaya,Reddy,254.555.0154,Bronze,238,2024-04-19,Austin,TX,US,false,false,false
+BLM-CUST-000055,riya.iyer55@example.com,Riya,Iyer,255.555.0155,Bronze,178,2025-06-01,Atlanta,GA,US,true,false,true
+BLM-CUST-000056,anaya.reddy56@example.com,Anaya,Reddy,(256) 555-0156,Silver,764,2025-10-20,Houston,TX,US,true,false,false
+BLM-CUST-000057,benjamin.williams57@example.com,Benjamin,Williams,1-257-555-0157,Bronze,260,2023-01-20,Austin,TX,US,false,false,false
+BLM-CUST-000058,lucia.wilson58@example.com,Lucia,Wilson,1-258-555-0158,Bronze,260,2026-08-11,Phoenix,AZ,US,true,false,true
+BLM-CUST-000059,anaya.iyer59@example.com,Anaya,Iyer,+1-259-555-0159,Bronze,37,2025-09-12,Columbus,OH,US,true,true,false
+BLM-CUST-000060,leo.davis60@example.com,Leo,Davis,(260) 555-0160,Bronze,308,2021-10-11,Portland,OR,US,true,false,false
+BLM-CUST-000061,diya.gupta61@example.com,Diya,Gupta,261.555.0161,Bronze,181,2024-08-09,Austin,TX,US,true,false,true
+BLM-CUST-000062,sofia.sharma62@example.com,Sofia,Sharma,(262) 555-0162,Gold,5212,2022-04-10,Houston,TX,US,true,true,true
+BLM-CUST-000063,priya.chen63@example.com,Priya,Chen,+1-263-555-0163,Gold,1886,2025-03-09,Houston,TX,US,true,true,true
+BLM-CUST-000064,diego.nair64@example.com,Diego,Nair,1-264-555-0164,Bronze,226,2021-12-20,Columbus,OH,US,true,true,false
+BLM-CUST-000065,amelia.williams65@example.com,Amelia,Williams,1-265-555-0165,Bronze,18,2025-03-03,Dallas,TX,US,true,true,true
+BLM-CUST-000066,liam.kapoor66@example.com,Liam,Kapoor,266.555.0166,Bronze,412,2026-07-13,Raleigh,NC,US,true,false,true
+BLM-CUST-000067,Diego.rao67@example.com,Diego,Rao,2675550167,Silver,779,2021-04-12,Seattle,WA,US,true,false,true
+BLM-CUST-000068,ella.nguyen68@example.com,Ella,Nguyen,(268) 555-0168,Bronze,324,2026-03-24,Newark,NJ,US,true,true,true
+BLM-CUST-000069,liam.wilson69@example.com,Liam,Wilson,2695550169,Silver,999,2022-07-06,Dallas,TX,US,true,false,false
+BLM-CUST-000070,anaya.miller70@example.com,Anaya,Miller,1-270-555-0170,Silver,1193,2022-05-12,Houston,TX,US,true,false,false
+BLM-CUST-000071,lucia.park71@example.com,Lucia,Park,1-271-555-0171,Silver,1331,2024-03-22,Portland,OR,US,true,false,true
+BLM-CUST-000072,diego.liu72@example.com,Diego,Liu,1-272-555-0172,Silver,1142,2026-04-13,Houston,TX,US,true,false,true
+BLM-CUST-000073,chloe.nair73@example.com,Chloe,Nair,2735550173,Silver,596,2025-04-20,Miami,FL,US,true,true,true
+BLM-CUST-000074,chen.chen40@example.com,Zara,Moore,1-274-555-0174,Gold,5795,2021-07-14,Portland,OR,US,true,false,true
+BLM-CUST-000075,harper.zhang75@example.com,Harper,Zhang,275.555.0175,Bronze,284,2024-02-04,Denver,CO,US,true,false,false
+BLM-CUST-000076,ling.williams76@example.com,Ling,Williams,(276) 555-0176,Silver,1421,2022-11-13,Atlanta,GA,US,true,false,true
+BLM-CUST-000077,emma.nair77@example.com,Emma,Nair,1-277-555-0177,Bronze,266,2023-04-12,Phoenix,AZ,US,true,false,false
+BLM-CUST-000078,arjun.park78@example.com,Arjun,Park,278.555.0178,Bronze,134,2024-03-01,Denver,CO,US,true,false,true
+BLM-CUST-000079,vihaan.zhang79@example.com,Vihaan,Zhang,279.555.0179,Bronze,122,2022-05-11,Austin,TX,US,true,false,false
+BLM-CUST-000080,amelia.johnson80@example.com,Amelia,Johnson,+1-280-555-0180,Bronze,397,2023-06-14,Portland,OR,US,true,false,false
+BLM-CUST-000081,hiro.rao81@example.com,Hiro,Rao,(281) 555-0181,Silver,823,2024-02-17,Miami,FL,US,true,true,false
+BLM-CUST-000082,dhruv.sharma82@example.com,Dhruv,Sharma,282.555.0182,Gold,2796,2026-08-01,Denver,CO,US,true,true,false
+BLM-CUST-000083,leo.jones83@example.com,Leo,Jones,283.555.0183,Silver,697,2025-11-27,Columbus,OH,US,true,false,false
+BLM-CUST-000084,Riya.johnson84@example.com,Riya,Johnson,1-284-555-0184,Bronze,259,2022-07-20,Columbus,OH,US,true,false,false
+BLM-CUST-000085,grace.sharma85@example.com,Grace,Sharma,285.555.0185,Bronze,199,2022-10-11,Seattle,WA,US,true,true,false
+BLM-CUST-000086,dhruv.menon86@example.com,Dhruv,Menon,(286) 555-0186,Silver,1142,2022-07-07,Houston,TX,US,true,true,false
+BLM-CUST-000087,Dhruv.nair87@example.com,Dhruv,Nair,1-287-555-0187,Gold,2128,2026-09-24,San Jose,CA,US,false,false,true
+BLM-CUST-000088,sofia.rao88@example.com,Sofia,Rao,+1-288-555-0188,Bronze,89,2024-02-14,Houston,TX,US,true,false,false
+BLM-CUST-000089,Reyansh.iyer89@example.com,Reyansh,Iyer,2895550189,Bronze,171,2024-11-08,Houston,TX,US,true,false,true
+BLM-CUST-000090,wei.li90@example.com,Wei,Li,1-290-555-0190,Gold,3678,2024-06-11,Portland,OR,US,true,false,false
+BLM-CUST-000091,diya.wilson91@example.com,Diya,Wilson,2915550191,Bronze,120,2024-10-22,San Jose,CA,US,true,false,false
+BLM-CUST-000092,grace.reddy92@example.com,Grace,Reddy,(292) 555-0192,Bronze,380,2026-07-06,San Jose,CA,US,true,false,true
+BLM-CUST-000093,emma.iyer93@example.com,Emma,Iyer,1-293-555-0193,Silver,1123,2025-07-18,Boston,MA,US,true,false,true
+BLM-CUST-000094,Ishaan.liu94@example.com,Ishaan,Liu,294.555.0194,Silver,583,2026-04-23,Atlanta,GA,US,true,false,true
+BLM-CUST-000095,ishaan.sharma95@example.com,Ishaan,Sharma,1-295-555-0195,Bronze,123,2024-01-09,Miami,FL,US,true,false,true
+BLM-CUST-000096,chen.zhang96@example.com,Chen,Zhang,+1-296-555-0196,Bronze,483,2024-06-07,Boston,MA,US,true,false,false
+BLM-CUST-000097,grace.li97@example.com,Grace,Li,1-297-555-0197,Silver,610,2022-03-26,Austin,TX,US,true,false,true
+BLM-CUST-000098,mei.kim98@example.com,Mei,Kim,(298) 555-0198,Silver,1207,2026-03-08,Miami,FL,US,true,true,true
+BLM-CUST-000099,isha.nair99@example.com,Isha,Nair,1-299-555-0199,Bronze,407,2023-12-08,Dallas,TX,US,true,true,true
+BLM-CUST-000100,maya.smith100@example.com,Maya,Smith,1-300-555-0100,Bronze,454,2025-05-04,Portland,OR,US,true,false,false
+BLM-CUST-000101,noah.kim101@example.com,Noah,Kim,3015550101,Gold,4120,2021-11-23,Houston,TX,US,true,false,false
+BLM-CUST-000102,Chen.moore102@example.com,Chen,Moore,3025550102,Silver,1462,2024-01-15,Miami,FL,US,true,true,false
+BLM-CUST-000103,diego.sharma103@example.com,Diego,Sharma,1-303-555-0103,Gold,3969,2023-09-19,Chicago,IL,US,true,true,true
+BLM-CUST-000104,zara.williams104@example.com,Zara,Williams,+1-304-555-0104,Bronze,400,2025-04-18,Chicago,IL,US,true,false,false
+BLM-CUST-000105,ava.davis105@example.com,Ava,Davis,+1-305-555-0105,Gold,1690,2023-01-21,Miami,FL,US,true,false,true
+BLM-CUST-000106,sophia.reddy106@example.com,Sophia,Reddy,306.555.0106,Bronze,257,2024-05-16,Dallas,TX,US,false,true,false
+BLM-CUST-000107,ella.wilson107@example.com,Ella,Wilson,(307) 555-0107,Bronze,105,2023-09-04,Chicago,IL,US,false,false,true
+BLM-CUST-000108,ishaan.rao108@example.com,Ishaan,Rao,3085550108,Gold,4512,2023-08-08,Miami,FL,US,true,false,true
+BLM-CUST-000109,ethan.nair109@example.com,Ethan,Nair,3095550109,Silver,756,2026-04-14,Portland,OR,US,true,true,false
+BLM-CUST-000110,zara.rao110@example.com,Zara,Rao,+1-310-555-0110,Bronze,454,2021-05-17,Raleigh,NC,US,true,false,true
+BLM-CUST-000111,priya.chen111@example.com,Priya,Chen,1-311-555-0111,Silver,1121,2022-06-08,Raleigh,NC,US,false,true,true
+BLM-CUST-000112,olivia.li112@example.com,Olivia,Li,3125550112,Gold,4025,2025-11-20,Austin,TX,US,false,false,false
+BLM-CUST-000113,Noah.nair113@example.com,Noah,Nair,(313) 555-0113,Silver,1049,2021-02-05,Miami,FL,US,true,true,true
+BLM-CUST-000114,hiro.smith114@example.com,Hiro,Smith,+1-314-555-0114,Bronze,58,2021-03-09,Columbus,OH,US,true,true,true
+BLM-CUST-000115,zara.nguyen115@example.com,Zara,Nguyen,3155550115,Bronze,159,2023-02-10,Seattle,WA,US,false,true,true
+BLM-CUST-000116,hiro.kim116@example.com,Hiro,Kim,316.555.0116,Bronze,82,2022-11-07,Miami,FL,US,true,false,true
+BLM-CUST-000117,liam.williams117@example.com,Liam,Williams,317.555.0117,Bronze,326,2021-06-14,San Jose,CA,US,true,false,false
+BLM-CUST-000118,Emma.zhang118@example.com,Emma,Zhang,(318) 555-0118,Silver,788,2025-02-13,Houston,TX,US,true,false,true
+BLM-CUST-000119,diego.williams119@example.com,Diego,Williams,(319) 555-0119,Bronze,233,2021-04-08,Houston,TX,US,false,false,false
+BLM-CUST-000120,benjamin.smith120@example.com,Benjamin,Smith,320.555.0120,Silver,1318,2023-06-14,Columbus,OH,US,true,false,false
+BLM-CUST-000121,ella.davis121@example.com,Ella,Davis,321.555.0121,Bronze,416,2023-02-26,Dallas,TX,US,true,false,false
+BLM-CUST-000122,ishaan.li122@example.com,Ishaan,Li,3225550122,Bronze,301,2023-03-14,Newark,NJ,US,false,true,false
+BLM-CUST-000123,Vihaan.wilson123@example.com,Vihaan,Wilson,1-323-555-0123,Bronze,78,2026-07-27,San Jose,CA,US,true,false,true
+BLM-CUST-000124,hiro.sharma124@example.com,Hiro,Sharma,324.555.0124,Silver,1265,2024-01-27,Newark,NJ,US,true,true,true
+BLM-CUST-000125,Amelia.nguyen125@example.com,Amelia,Nguyen,325.555.0125,Bronze,123,2022-02-19,Miami,FL,US,true,true,true
+BLM-CUST-000126,anaya.moore126@example.com,Anaya,Moore,3265550126,Silver,1402,2023-04-18,Houston,TX,US,true,true,true
+BLM-CUST-000127,kabir.tanaka127@example.com,Kabir,Tanaka,+1-327-555-0127,Bronze,75,2023-01-12,Portland,OR,US,false,true,false
+BLM-CUST-000128,olivia.moore128@example.com,Olivia,Moore,1-328-555-0128,Bronze,363,2023-09-04,Raleigh,NC,US,true,true,false
+BLM-CUST-000129,priya.bose129@example.com,Priya,Bose,3295550129,Silver,603,2023-08-22,Seattle,WA,US,false,false,true
+BLM-CUST-000130,sophia.gupta130@example.com,Sophia,Gupta,1-330-555-0130,Bronze,495,2023-11-20,Houston,TX,US,true,false,true
+BLM-CUST-000131,reyansh.williams131@example.com,Reyansh,Williams,331.555.0131,Silver,711,2026-01-28,Columbus,OH,US,true,false,false
+BLM-CUST-000132,reyansh.nair132@example.com,Reyansh,Nair,(332) 555-0132,Bronze,222,2026-09-05,Portland,OR,US,true,false,false
+BLM-CUST-000133,anika.park133@example.com,Anika,Park,(333) 555-0133,Bronze,19,2024-10-02,Newark,NJ,US,false,false,true
+BLM-CUST-000134,grace.rao134@example.com,Grace,Rao,1-334-555-0134,Silver,811,2023-09-10,Portland,OR,US,true,true,false
+BLM-CUST-000135,anaya.liu135@example.com,Anaya,Liu,+1-335-555-0135,Bronze,266,2026-07-22,Houston,TX,US,true,false,true
+BLM-CUST-000136,kabir.patel136@example.com,Kabir,Patel,1-336-555-0136,Silver,1290,2023-01-19,Seattle,WA,US,true,false,true
+BLM-CUST-000137,kabir.reddy137@example.com,Kabir,Reddy,3375550137,Gold,2397,2025-05-25,Denver,CO,US,false,true,true
+BLM-CUST-000138,owen.kapoor138@example.com,Owen,Kapoor,3385550138,Bronze,416,2024-09-28,Chicago,IL,US,false,false,false
+BLM-CUST-000139,Aditya.smith139@example.com,Aditya,Smith,+1-339-555-0139,Bronze,403,2026-05-24,Dallas,TX,US,false,true,false
+BLM-CUST-000140,aditya.johnson140@example.com,Aditya,Johnson,340.555.0140,Bronze,17,2026-02-21,Raleigh,NC,US,false,true,true
+BLM-CUST-000141,mason.johnson141@example.com,Mason,Johnson,1-341-555-0141,Silver,1075,2021-01-03,Raleigh,NC,US,true,false,false
+BLM-CUST-000142,emma.iyer93@example.com,Anika,Menon,(342) 555-0142,Bronze,285,2023-07-16,Boston,MA,US,false,false,true
+BLM-CUST-000143,anika.williams143@example.com,Anika,Williams,3435550143,Silver,524,2022-07-25,Newark,NJ,US,false,true,true
+BLM-CUST-000144,olivia.davis144@example.com,Olivia,Davis,1-344-555-0144,Silver,1167,2025-09-16,Dallas,TX,US,false,false,true
+BLM-CUST-000145,Maya.park145@example.com,Maya,Park,(345) 555-0145,Silver,743,2022-03-16,San Jose,CA,US,true,true,true
+BLM-CUST-000146,amelia.moore146@example.com,Amelia,Moore,1-346-555-0146,Silver,703,2023-11-24,Austin,TX,US,true,false,false
+BLM-CUST-000147,benjamin.kapoor147@example.com,Benjamin,Kapoor,347.555.0147,Silver,722,2024-08-28,Seattle,WA,US,true,false,false
+BLM-CUST-000148,Chen.li148@example.com,Chen,Li,+1-348-555-0148,Gold,5295,2021-04-07,Austin,TX,US,true,false,true
+BLM-CUST-000149,liam.johnson149@example.com,Liam,Johnson,+1-349-555-0149,Gold,5331,2024-05-17,Columbus,OH,US,false,false,false
+BLM-CUST-000150,aditya.park150@example.com,Aditya,Park,1-350-555-0150,Bronze,432,2025-02-08,Newark,NJ,US,true,false,true
+BLM-CUST-000151,owen.kim151@example.com,Owen,Kim,3515550151,Silver,1331,2021-07-15,Newark,NJ,US,true,false,true
+BLM-CUST-000152,mei.park152@example.com,Mei,Park,+1-352-555-0152,Bronze,65,2022-11-08,Columbus,OH,US,false,true,true
+BLM-CUST-000153,mei.miller153@example.com,Mei,Miller,(353) 555-0153,Gold,4721,2024-12-22,Dallas,TX,US,true,false,true
+BLM-CUST-000154,hiro.davis154@example.com,Hiro,Davis,354.555.0154,Bronze,374,2024-04-16,Miami,FL,US,true,false,true
+BLM-CUST-000155,mei.brown155@example.com,Mei,Brown,3555550155,Silver,984,2024-05-05,Austin,TX,US,true,false,false
+BLM-CUST-000156,Vivaan.patel156@example.com,Vivaan,Patel,1-356-555-0156,Bronze,312,2026-01-11,Columbus,OH,US,true,false,true
+BLM-CUST-000157,riya.iyer157@example.com,Riya,Iyer,3575550157,Bronze,22,2023-04-20,Atlanta,GA,US,true,false,true
+BLM-CUST-000158,James.wang158@example.com,James,Wang,3585550158,Bronze,330,2022-02-11,Dallas,TX,US,true,false,true
+BLM-CUST-000159,chloe.bose159@example.com,Chloe,Bose,(359) 555-0159,Bronze,239,2024-03-21,Portland,OR,US,false,true,false
+BLM-CUST-000160,Ling.wilson160@example.com,Ling,Wilson,(360) 555-0160,Bronze,477,2021-11-06,Austin,TX,US,false,false,false
+BLM-CUST-000161,aditya.li161@example.com,Aditya,Li,361.555.0161,Bronze,140,2022-03-25,Miami,FL,US,true,true,true
+BLM-CUST-000162,priya.wilson162@example.com,Priya,Wilson,(362) 555-0162,Bronze,206,2022-12-10,Portland,OR,US,false,false,false
+BLM-CUST-000163,mia.sharma163@example.com,Mia,Sharma,1-363-555-0163,Silver,962,2023-04-17,Boston,MA,US,true,false,false
+BLM-CUST-000164,mia.garcia164@example.com,Mia,Garcia,1-364-555-0164,Bronze,108,2024-02-06,Denver,CO,US,true,false,true
+BLM-CUST-000165,harper.davis165@example.com,Harper,Davis,3655550165,Gold,5190,2023-07-28,Seattle,WA,US,true,true,false
+BLM-CUST-000166,yuki.menon166@example.com,Yuki,Menon,366.555.0166,Bronze,85,2023-05-16,Houston,TX,US,false,false,false
+BLM-CUST-000167,ling.moore167@example.com,Ling,Moore,3675550167,Bronze,163,2022-10-24,Boston,MA,US,true,false,true
+BLM-CUST-000168,dhruv.smith168@example.com,Dhruv,Smith,368.555.0168,Silver,1201,2026-01-28,Atlanta,GA,US,true,false,false
+BLM-CUST-000169,noah.miller169@example.com,Noah,Miller,1-369-555-0169,Bronze,396,2022-12-17,Seattle,WA,US,false,true,false
+BLM-CUST-000170,wei.williams170@example.com,Wei,Williams,370.555.0170,Silver,819,2024-11-15,Atlanta,GA,US,true,true,false
+BLM-CUST-000171,kiara.bose171@example.com,Kiara,Bose,+1-371-555-0171,Bronze,365,2022-03-01,Newark,NJ,US,true,false,true
+BLM-CUST-000172,benjamin.park172@example.com,Benjamin,Park,(372) 555-0172,Bronze,392,2024-02-15,San Jose,CA,US,true,true,true
+BLM-CUST-000173,diego.kapoor173@example.com,Diego,Kapoor,3735550173,Gold,5338,2024-02-27,Chicago,IL,US,true,true,true
+BLM-CUST-000174,vivaan.moore174@example.com,Vivaan,Moore,1-374-555-0174,Bronze,250,2023-04-01,Newark,NJ,US,true,false,false
+BLM-CUST-000175,sofia.liu175@example.com,Sofia,Liu,375.555.0175,Silver,587,2025-07-17,Atlanta,GA,US,true,true,false
+BLM-CUST-000176,vihaan.brown176@example.com,Vihaan,Brown,376.555.0176,Silver,1357,2026-03-24,Chicago,IL,US,true,false,false
+BLM-CUST-000177,maya.rao48@example.com,Ishaan,Sato,(377) 555-0177,Gold,4077,2026-02-09,Raleigh,NC,US,true,false,true
+BLM-CUST-000178,sara.zhang178@example.com,Sara,Zhang,+1-378-555-0178,Bronze,147,2021-11-22,Phoenix,AZ,US,false,false,true
+BLM-CUST-000179,sophia.rao179@example.com,Sophia,Rao,(379) 555-0179,Silver,1337,2025-02-27,Portland,OR,US,true,false,true
+BLM-CUST-000180,diya.zhang180@example.com,Diya,Zhang,380.555.0180,Bronze,250,2024-12-07,Atlanta,GA,US,false,false,false
+BLM-CUST-000181,sofia.moore181@example.com,Sofia,Moore,+1-381-555-0181,Bronze,453,2022-09-07,Seattle,WA,US,false,true,true
+BLM-CUST-000182,Lucas.miller182@example.com,Lucas,Miller,382.555.0182,Bronze,345,2025-08-10,Houston,TX,US,false,true,true
+BLM-CUST-000183,anaya.bose183@example.com,Anaya,Bose,1-383-555-0183,Silver,1374,2025-08-21,Atlanta,GA,US,true,true,true
+BLM-CUST-000184,chloe.park184@example.com,Chloe,Park,(384) 555-0184,Gold,3562,2021-12-26,Chicago,IL,US,true,false,true
+BLM-CUST-000185,dhruv.bose185@example.com,Dhruv,Bose,1-385-555-0185,Bronze,73,2024-05-15,Newark,NJ,US,true,true,true
+BLM-CUST-000186,Ella.wang186@example.com,Ella,Wang,386.555.0186,Silver,1038,2022-08-19,Miami,FL,US,true,false,true
+BLM-CUST-000187,ethan.liu187@example.com,Ethan,Liu,3875550187,Bronze,371,2026-08-14,Portland,OR,US,true,false,true
+BLM-CUST-000188,hiro.kapoor188@example.com,Hiro,Kapoor,388.555.0188,Bronze,88,2021-07-11,San Jose,CA,US,false,false,true
+BLM-CUST-000189,liam.jones189@example.com,Liam,Jones,1-389-555-0189,Bronze,193,2025-12-16,Columbus,OH,US,false,false,false
+BLM-CUST-000190,benjamin.nguyen190@example.com,Benjamin,Nguyen,390.555.0190,Gold,3871,2022-07-19,Raleigh,NC,US,true,true,true
+BLM-CUST-000191,Ishaan.zhang191@example.com,Ishaan,Zhang,(391) 555-0191,Bronze,134,2024-10-03,Raleigh,NC,US,false,false,false
+BLM-CUST-000192,isha.johnson192@example.com,Isha,Johnson,3925550192,Silver,776,2024-07-01,Atlanta,GA,US,true,false,false
+BLM-CUST-000193,ava.nguyen193@example.com,Ava,Nguyen,(393) 555-0193,Bronze,138,2026-07-25,Houston,TX,US,true,false,true
+BLM-CUST-000194,ishaan.miller194@example.com,Ishaan,Miller,3945550194,Bronze,407,2026-02-04,Austin,TX,US,true,true,true
+BLM-CUST-000195,Mei.li195@example.com,Mei,Li,395.555.0195,Silver,1149,2025-04-21,Denver,CO,US,false,false,true
+BLM-CUST-000196,Anika.park196@example.com,Anika,Park,(396) 555-0196,Bronze,394,2022-09-14,Dallas,TX,US,false,false,true
+BLM-CUST-000197,arjun.li197@example.com,Arjun,Li,3975550197,Bronze,39,2025-06-20,Chicago,IL,US,true,true,false
+BLM-CUST-000198,olivia.nguyen198@example.com,Olivia,Nguyen,398.555.0198,Bronze,152,2023-10-08,Austin,TX,US,true,true,true
+BLM-CUST-000199,chloe.sato199@example.com,Chloe,Sato,(399) 555-0199,Silver,1381,2022-11-26,Dallas,TX,US,true,false,false
+BLM-CUST-000200,arjun.tanaka200@example.com,Arjun,Tanaka,400.555.0100,Bronze,492,2026-05-03,Portland,OR,US,true,false,true
+BLM-CUST-000201,harper.brown201@example.com,Harper,Brown,401.555.0101,Gold,4240,2026-08-29,Raleigh,NC,US,true,false,true
+BLM-CUST-000202,Kabir.kapoor202@example.com,Kabir,Kapoor,1-402-555-0102,Silver,684,2025-01-21,Phoenix,AZ,US,true,false,true
+BLM-CUST-000203,riya.iyer203@example.com,Riya,Iyer,+1-403-555-0103,Bronze,12,2023-08-07,Raleigh,NC,US,true,true,false
+BLM-CUST-000204,leo.sato204@example.com,Leo,Sato,(404) 555-0104,Bronze,338,2024-04-25,Portland,OR,US,true,false,true
+BLM-CUST-000205,maya.moore205@example.com,Maya,Moore,405.555.0105,Silver,1206,2021-07-12,Denver,CO,US,true,true,false
+BLM-CUST-000206,noah.jones206@example.com,Noah,Jones,(406) 555-0106,Bronze,434,2024-03-10,Chicago,IL,US,true,true,true
+BLM-CUST-000207,chloe.garcia207@example.com,Chloe,Garcia,1-407-555-0107,Bronze,202,2026-04-13,Columbus,OH,US,false,false,false
+BLM-CUST-000208,ishaan.sharma208@example.com,Ishaan,Sharma,408.555.0108,Bronze,485,2024-10-24,Phoenix,AZ,US,false,false,false
+BLM-CUST-000209,Priya.park209@example.com,Priya,Park,4095550109,Bronze,6,2021-01-03,Seattle,WA,US,false,true,false
+BLM-CUST-000210,zara.bose210@example.com,Zara,Bose,+1-410-555-0110,Bronze,35,2023-02-14,Austin,TX,US,true,true,true
+BLM-CUST-000211,noah.davis211@example.com,Noah,Davis,411.555.0111,Silver,1238,2024-08-20,Houston,TX,US,true,false,true
+BLM-CUST-000212,yuki.chen212@example.com,Yuki,Chen,412.555.0112,Silver,767,2023-08-10,Chicago,IL,US,false,true,false
+BLM-CUST-000213,Kabir.garcia213@example.com,Kabir,Garcia,+1-413-555-0113,Silver,737,2024-05-05,Portland,OR,US,false,false,true
+BLM-CUST-000214,chen.miller214@example.com,Chen,Miller,(414) 555-0114,Bronze,34,2022-06-16,Atlanta,GA,US,true,false,false
+BLM-CUST-000215,henry.gupta215@example.com,Henry,Gupta,4155550115,Bronze,268,2021-12-28,Portland,OR,US,true,false,false
+BLM-CUST-000216,diya.chen216@example.com,Diya,Chen,416.555.0116,Bronze,447,2022-04-14,Miami,FL,US,true,true,false
+BLM-CUST-000217,priya.liu217@example.com,Priya,Liu,417.555.0117,Silver,713,2025-10-07,Boston,MA,US,true,true,true
+BLM-CUST-000218,olivia.park218@example.com,Olivia,Park,1-418-555-0118,Bronze,361,2023-07-14,Seattle,WA,US,true,false,true
+BLM-CUST-000219,noah.sharma219@example.com,Noah,Sharma,4195550119,Bronze,322,2022-09-06,Atlanta,GA,US,true,false,true
+BLM-CUST-000220,kiara.wang220@example.com,Kiara,Wang,4205550120,Bronze,252,2023-04-11,Newark,NJ,US,true,false,false
+BLM-CUST-000221,amelia.smith221@example.com,Amelia,Smith,(421) 555-0121,Bronze,257,2022-04-26,Portland,OR,US,true,false,false
+BLM-CUST-000222,liam.sharma222@example.com,Liam,Sharma,+1-422-555-0122,Bronze,349,2023-01-08,Chicago,IL,US,true,true,true
+BLM-CUST-000223,mason.kapoor223@example.com,Mason,Kapoor,(423) 555-0123,Bronze,2,2026-08-06,San Jose,CA,US,true,false,true
+BLM-CUST-000224,mason.nair224@example.com,Mason,Nair,424.555.0124,Bronze,46,2025-09-01,Columbus,OH,US,true,true,false
+BLM-CUST-000225,amelia.nguyen225@example.com,Amelia,Nguyen,425.555.0125,Bronze,426,2026-03-10,Columbus,OH,US,true,true,false
+BLM-CUST-000226,mia.kapoor226@example.com,Mia,Kapoor,1-426-555-0126,Bronze,390,2026-07-25,Denver,CO,US,true,true,true
+BLM-CUST-000227,aditya.iyer227@example.com,Aditya,Iyer,427.555.0127,Silver,1055,2023-05-12,Denver,CO,US,false,false,false
+BLM-CUST-000228,anika.reddy228@example.com,Anika,Reddy,1-428-555-0128,Bronze,174,2025-07-26,Chicago,IL,US,false,true,true
+BLM-CUST-000229,ethan.garcia229@example.com,Ethan,Garcia,429.555.0129,Gold,1647,2023-09-27,Houston,TX,US,true,false,false
+BLM-CUST-000230,diya.smith230@example.com,Diya,Smith,(430) 555-0130,Bronze,331,2021-09-02,Austin,TX,US,true,false,false
+BLM-CUST-000231,vivaan.wilson231@example.com,Vivaan,Wilson,(431) 555-0131,Bronze,49,2022-12-05,Boston,MA,US,true,false,false
+BLM-CUST-000232,harper.park232@example.com,Harper,Park,1-432-555-0132,Bronze,194,2021-09-14,Chicago,IL,US,true,true,false
+BLM-CUST-000233,ling.tanaka233@example.com,Ling,Tanaka,+1-433-555-0133,Silver,1254,2025-08-08,Seattle,WA,US,false,false,true
+BLM-CUST-000234,dhruv.brown234@example.com,Dhruv,Brown,(434) 555-0134,Bronze,309,2021-08-09,Dallas,TX,US,true,true,false
+BLM-CUST-000235,ava.liu235@example.com,Ava,Liu,1-435-555-0135,Silver,742,2024-05-17,Portland,OR,US,true,true,true
+BLM-CUST-000236,Sofia.wilson236@example.com,Sofia,Wilson,+1-436-555-0136,Gold,1886,2026-08-07,Seattle,WA,US,true,true,false
+BLM-CUST-000237,Diya.bose237@example.com,Diya,Bose,437.555.0137,Silver,1342,2021-10-26,Phoenix,AZ,US,true,false,false
+BLM-CUST-000238,olivia.williams238@example.com,Olivia,Williams,4385550138,Gold,2418,2022-10-19,Houston,TX,US,true,false,false
+BLM-CUST-000239,amelia.reddy239@example.com,Amelia,Reddy,1-439-555-0139,Bronze,322,2023-11-25,Phoenix,AZ,US,true,false,false
+BLM-CUST-000240,Kabir.nguyen240@example.com,Kabir,Nguyen,+1-440-555-0140,Bronze,463,2023-01-08,Boston,MA,US,true,false,false
+BLM-CUST-000241,anika.moore241@example.com,Anika,Moore,1-441-555-0141,Bronze,170,2026-09-17,Miami,FL,US,false,true,true
+BLM-CUST-000242,aarav.reddy242@example.com,Aarav,Reddy,(442) 555-0142,Bronze,252,2024-10-18,Phoenix,AZ,US,true,false,false
+BLM-CUST-000243,ella.wang243@example.com,Ella,Wang,4435550143,Bronze,493,2026-01-02,Newark,NJ,US,true,true,false
+BLM-CUST-000244,sophia.tanaka244@example.com,Sophia,Tanaka,1-444-555-0144,Gold,5821,2024-02-10,Dallas,TX,US,true,false,false
+BLM-CUST-000245,anika.nguyen245@example.com,Anika,Nguyen,+1-445-555-0145,Bronze,454,2024-01-15,Austin,TX,US,true,false,true
+BLM-CUST-000246,isha.kapoor246@example.com,Isha,Kapoor,4465550146,Silver,1181,2025-01-01,Houston,TX,US,true,true,true
+BLM-CUST-000247,anika.moore247@example.com,Anika,Moore,4475550147,Gold,2370,2026-07-13,Seattle,WA,US,false,false,false
+BLM-CUST-000248,ling.davis248@example.com,Ling,Davis,4485550148,Bronze,159,2023-05-11,San Jose,CA,US,true,false,true
+BLM-CUST-000249,Yuki.brown249@example.com,Yuki,Brown,+1-449-555-0149,Gold,1855,2026-07-25,Miami,FL,US,true,false,false
+BLM-CUST-000250,hiro.davis250@example.com,Hiro,Davis,(450) 555-0150,Gold,5839,2023-09-09,Raleigh,NC,US,true,false,false
+BLM-CUST-000251,Leo.iyer251@example.com,Leo,Iyer,451.555.0151,Gold,3274,2025-09-08,Phoenix,AZ,US,true,false,false
+BLM-CUST-000252,priya.wilson162@example.com,Isha,Nguyen,+1-452-555-0152,Silver,981,2023-04-18,Dallas,TX,US,true,false,true
+BLM-CUST-000253,diego.rao253@example.com,Diego,Rao,(453) 555-0153,Bronze,398,2025-06-28,Columbus,OH,US,true,true,false
+BLM-CUST-000254,chen.gupta254@example.com,Chen,Gupta,4545550154,Silver,691,2025-11-28,Raleigh,NC,US,true,true,true
+BLM-CUST-000255,olivia.reddy255@example.com,Olivia,Reddy,(455) 555-0155,Bronze,35,2024-11-05,Dallas,TX,US,false,false,true
+BLM-CUST-000256,ella.menon256@example.com,Ella,Menon,1-456-555-0156,Bronze,222,2025-03-04,Columbus,OH,US,true,false,true
+BLM-CUST-000257,noah.reddy257@example.com,Noah,Reddy,+1-457-555-0157,Gold,3988,2022-03-08,Seattle,WA,US,false,true,false
+BLM-CUST-000258,diego.reddy258@example.com,Diego,Reddy,458.555.0158,Silver,948,2023-12-07,Raleigh,NC,US,true,false,true
+BLM-CUST-000259,kabir.smith259@example.com,Kabir,Smith,4595550159,Silver,1415,2022-10-07,Boston,MA,US,true,true,true
+BLM-CUST-000260,sophia.rao260@example.com,Sophia,Rao,+1-460-555-0160,Silver,1450,2022-09-27,Dallas,TX,US,true,false,true
+BLM-CUST-000261,Leo.sato261@example.com,Leo,Sato,(461) 555-0161,Silver,996,2022-07-05,Atlanta,GA,US,false,false,true
+BLM-CUST-000262,chloe.johnson262@example.com,Chloe,Johnson,(462) 555-0162,Bronze,488,2023-04-08,Boston,MA,US,true,false,false
+BLM-CUST-000263,mason.bose263@example.com,Mason,Bose,1-463-555-0163,Silver,1240,2022-02-18,Seattle,WA,US,true,false,false
+BLM-CUST-000264,henry.brown264@example.com,Henry,Brown,464.555.0164,Gold,5108,2023-12-26,Raleigh,NC,US,true,false,true
+BLM-CUST-000265,Mateo.zhang265@example.com,Mateo,Zhang,(465) 555-0165,Bronze,338,2024-05-24,Raleigh,NC,US,true,false,true
+BLM-CUST-000266,Mia.garcia266@example.com,Mia,Garcia,4665550166,Bronze,183,2025-12-27,Portland,OR,US,false,true,true
+BLM-CUST-000267,emma.patel267@example.com,Emma,Patel,467.555.0167,Bronze,454,2022-01-17,Phoenix,AZ,US,true,false,false
+BLM-CUST-000268,Mia.nguyen268@example.com,Mia,Nguyen,468.555.0168,Bronze,265,2025-04-28,Raleigh,NC,US,true,false,false
+BLM-CUST-000269,maya.gupta269@example.com,Maya,Gupta,+1-469-555-0169,Silver,1059,2023-01-12,Miami,FL,US,true,false,false
+BLM-CUST-000270,sara.nair270@example.com,Sara,Nair,1-470-555-0170,Bronze,158,2022-01-26,Miami,FL,US,true,true,true
+BLM-CUST-000271,Mason.nguyen271@example.com,Mason,Nguyen,+1-471-555-0171,Bronze,374,2021-02-11,Chicago,IL,US,false,true,false
+BLM-CUST-000272,sara.miller272@example.com,Sara,Miller,4725550172,Bronze,220,2021-10-04,Columbus,OH,US,true,false,false
+BLM-CUST-000273,isha.chen273@example.com,Isha,Chen,(473) 555-0173,Silver,1273,2025-07-17,Newark,NJ,US,true,false,false
+BLM-CUST-000274,owen.williams274@example.com,Owen,Williams,+1-474-555-0174,Silver,921,2023-12-19,Austin,TX,US,true,false,false
+BLM-CUST-000275,vivaan.sharma275@example.com,Vivaan,Sharma,475.555.0175,Bronze,333,2026-02-12,Atlanta,GA,US,true,false,true
+BLM-CUST-000276,chen.moore276@example.com,Chen,Moore,(476) 555-0176,Bronze,496,2022-09-27,Denver,CO,US,false,false,false
+BLM-CUST-000277,leo.menon277@example.com,Leo,Menon,1-477-555-0177,Silver,1406,2024-05-09,Atlanta,GA,US,true,false,true
+BLM-CUST-000278,anaya.gupta278@example.com,Anaya,Gupta,(478) 555-0178,Silver,940,2026-09-10,San Jose,CA,US,true,false,false
+BLM-CUST-000279,lucia.gupta279@example.com,Lucia,Gupta,1-479-555-0179,Bronze,63,2026-02-07,Columbus,OH,US,true,false,false
+BLM-CUST-000280,olivia.li112@example.com,Chen,Miller,480.555.0180,Silver,1014,2025-03-03,Boston,MA,US,true,false,false
+BLM-CUST-000281,maya.jones281@example.com,Maya,Jones,481.555.0181,Bronze,121,2022-02-03,Portland,OR,US,true,false,true
+BLM-CUST-000282,liam.tanaka282@example.com,Liam,Tanaka,+1-482-555-0182,Silver,1238,2025-10-13,Phoenix,AZ,US,true,false,true
+BLM-CUST-000283,sofia.johnson283@example.com,Sofia,Johnson,4835550183,Bronze,44,2023-06-02,Houston,TX,US,true,false,true
+BLM-CUST-000284,maya.brown284@example.com,Maya,Brown,4845550184,Bronze,255,2026-08-23,Raleigh,NC,US,true,true,true
+BLM-CUST-000285,diya.garcia285@example.com,Diya,Garcia,+1-485-555-0185,Bronze,152,2022-06-02,Miami,FL,US,true,false,false
+BLM-CUST-000286,Dhruv.garcia286@example.com,Dhruv,Garcia,1-486-555-0186,Bronze,213,2022-12-23,Austin,TX,US,true,false,false
+BLM-CUST-000287,sara.zhang287@example.com,Sara,Zhang,4875550187,Silver,682,2022-12-23,Atlanta,GA,US,true,false,false
+BLM-CUST-000288,dhruv.menon288@example.com,Dhruv,Menon,+1-488-555-0188,Silver,662,2023-07-10,Raleigh,NC,US,true,false,true
+BLM-CUST-000289,Liam.wilson289@example.com,Liam,Wilson,4895550189,Silver,1412,2023-04-18,Boston,MA,US,true,false,true
+BLM-CUST-000290,harper.miller290@example.com,Harper,Miller,1-490-555-0190,Bronze,338,2023-01-23,Atlanta,GA,US,false,false,true
+BLM-CUST-000291,Ethan.chen291@example.com,Ethan,Chen,(491) 555-0191,Bronze,287,2026-02-28,Portland,OR,US,true,false,false
+BLM-CUST-000292,kabir.gupta292@example.com,Kabir,Gupta,(492) 555-0192,Bronze,474,2026-09-13,Seattle,WA,US,true,false,false
+BLM-CUST-000293,kabir.wilson293@example.com,Kabir,Wilson,+1-493-555-0193,Bronze,32,2026-03-28,Portland,OR,US,true,true,true
+BLM-CUST-000294,diya.rao294@example.com,Diya,Rao,+1-494-555-0194,Silver,1091,2023-11-06,Dallas,TX,US,false,true,false
+BLM-CUST-000295,owen.wilson295@example.com,Owen,Wilson,+1-495-555-0195,Silver,1228,2023-08-10,Seattle,WA,US,true,false,false
+BLM-CUST-000296,sara.liu296@example.com,Sara,Liu,1-496-555-0196,Bronze,299,2024-03-22,San Jose,CA,US,false,false,false
+BLM-CUST-000297,vihaan.moore297@example.com,Vihaan,Moore,(497) 555-0197,Bronze,333,2024-02-08,Seattle,WA,US,true,false,true
+BLM-CUST-000298,liam.wilson298@example.com,Liam,Wilson,498.555.0198,Bronze,277,2025-06-24,Raleigh,NC,US,true,false,true
+BLM-CUST-000299,riya.garcia299@example.com,Riya,Garcia,(499) 555-0199,Bronze,63,2021-01-22,Phoenix,AZ,US,true,true,false
+BLM-CUST-000300,vihaan.kapoor300@example.com,Vihaan,Kapoor,5005550100,Bronze,44,2021-11-02,Columbus,OH,US,false,true,false
+BLM-CUST-000301,owen.moore301@example.com,Owen,Moore,501.555.0101,Silver,776,2026-08-04,San Jose,CA,US,true,false,true
+BLM-CUST-000302,diya.johnson302@example.com,Diya,Johnson,(502) 555-0102,Silver,1206,2024-08-23,Chicago,IL,US,true,false,true
+BLM-CUST-000303,sophia.chen303@example.com,Sophia,Chen,5035550103,Bronze,13,2023-12-19,Boston,MA,US,true,true,false
+BLM-CUST-000304,Emma.park304@example.com,Emma,Park,5045550104,Silver,1199,2024-08-03,Portland,OR,US,true,true,false
+BLM-CUST-000305,leo.garcia305@example.com,Leo,Garcia,+1-505-555-0105,Bronze,301,2024-11-22,Atlanta,GA,US,true,false,true
+BLM-CUST-000306,sophia.kim306@example.com,Sophia,Kim,1-506-555-0106,Bronze,119,2022-10-18,Houston,TX,US,false,false,true
+BLM-CUST-000307,kiara.sharma307@example.com,Kiara,Sharma,(507) 555-0107,Silver,918,2026-01-04,Newark,NJ,US,true,true,true
+BLM-CUST-000308,sara.kim308@example.com,Sara,Kim,508.555.0108,Bronze,218,2022-11-14,Raleigh,NC,US,false,true,false
+BLM-CUST-000309,wei.brown309@example.com,Wei,Brown,5095550109,Gold,4759,2024-09-26,Raleigh,NC,US,true,false,false
+BLM-CUST-000310,lucas.brown310@example.com,Lucas,Brown,(510) 555-0110,Bronze,224,2023-04-25,Seattle,WA,US,false,false,false
+BLM-CUST-000311,arjun.wilson311@example.com,Arjun,Wilson,+1-511-555-0111,Bronze,188,2026-05-11,Columbus,OH,US,false,true,true
+BLM-CUST-000312,lucia.patel312@example.com,Lucia,Patel,512.555.0112,Bronze,206,2021-07-19,Portland,OR,US,true,false,false
+BLM-CUST-000313,mia.kim313@example.com,Mia,Kim,1-513-555-0113,Silver,968,2024-07-05,San Jose,CA,US,false,false,false
+BLM-CUST-000314,yuki.bose314@example.com,Yuki,Bose,1-514-555-0114,Gold,1588,2021-11-03,Newark,NJ,US,true,true,true
+BLM-CUST-000315,ethan.sato315@example.com,Ethan,Sato,(515) 555-0115,Bronze,362,2023-10-02,Columbus,OH,US,true,false,true
+BLM-CUST-000316,ella.liu316@example.com,Ella,Liu,516.555.0116,Bronze,302,2024-07-26,Dallas,TX,US,true,true,true
+BLM-CUST-000317,vihaan.sato317@example.com,Vihaan,Sato,517.555.0117,Silver,880,2025-11-05,San Jose,CA,US,true,false,false
+BLM-CUST-000318,diya.garcia318@example.com,Diya,Garcia,1-518-555-0118,Silver,660,2026-09-02,San Jose,CA,US,true,false,true
+BLM-CUST-000319,yuki.bose319@example.com,Yuki,Bose,5195550119,Bronze,121,2022-11-27,Columbus,OH,US,false,true,true
+BLM-CUST-000320,ava.sharma320@example.com,Ava,Sharma,520.555.0120,Bronze,365,2021-09-10,Atlanta,GA,US,true,false,true
+BLM-CUST-000321,owen.sharma321@example.com,Owen,Sharma,1-521-555-0121,Silver,603,2021-01-06,Boston,MA,US,true,true,false
+BLM-CUST-000322,mia.miller322@example.com,Mia,Miller,(522) 555-0122,Bronze,208,2025-03-28,Dallas,TX,US,true,false,true
+BLM-CUST-000323,olivia.wilson323@example.com,Olivia,Wilson,523.555.0123,Silver,1439,2023-03-14,Austin,TX,US,true,false,true
+BLM-CUST-000324,isha.reddy324@example.com,Isha,Reddy,5245550124,Bronze,188,2022-11-06,Raleigh,NC,US,true,false,false
+BLM-CUST-000325,sofia.tanaka325@example.com,Sofia,Tanaka,(525) 555-0125,Silver,1113,2026-07-14,Portland,OR,US,true,false,true
+BLM-CUST-000326,ishaan.brown326@example.com,Ishaan,Brown,+1-526-555-0126,Bronze,343,2021-01-17,Raleigh,NC,US,true,false,true
+BLM-CUST-000327,anika.rao327@example.com,Anika,Rao,1-527-555-0127,Bronze,160,2026-09-07,Chicago,IL,US,false,true,true
+BLM-CUST-000328,Ethan.brown328@example.com,Ethan,Brown,(528) 555-0128,Bronze,66,2023-10-08,Seattle,WA,US,false,false,true
+BLM-CUST-000329,emma.garcia329@example.com,Emma,Garcia,+1-529-555-0129,Bronze,110,2022-08-01,San Jose,CA,US,true,false,true
+BLM-CUST-000330,aditya.moore330@example.com,Aditya,Moore,5305550130,Silver,797,2021-04-02,San Jose,CA,US,false,false,false
+BLM-CUST-000331,mason.moore331@example.com,Mason,Moore,+1-531-555-0131,Gold,4642,2022-10-19,Columbus,OH,US,true,false,false
+BLM-CUST-000332,riya.sharma332@example.com,Riya,Sharma,1-532-555-0132,Bronze,177,2023-12-04,Dallas,TX,US,true,false,false
+BLM-CUST-000333,wei.tanaka333@example.com,Wei,Tanaka,+1-533-555-0133,Gold,4539,2025-02-18,Austin,TX,US,true,true,true
+BLM-CUST-000334,Amelia.brown334@example.com,Amelia,Brown,(534) 555-0134,Bronze,56,2024-05-26,Houston,TX,US,false,true,false
+BLM-CUST-000335,james.patel335@example.com,James,Patel,+1-535-555-0135,Bronze,283,2023-04-26,Newark,NJ,US,true,false,false
+BLM-CUST-000336,aarav.jones336@example.com,Aarav,Jones,536.555.0136,Bronze,490,2026-02-26,Columbus,OH,US,true,true,false
+BLM-CUST-000337,advait.brown337@example.com,Advait,Brown,1-537-555-0137,Bronze,360,2024-11-15,Columbus,OH,US,true,false,false
+BLM-CUST-000338,ella.miller338@example.com,Ella,Miller,+1-538-555-0138,Gold,1601,2026-07-21,Boston,MA,US,true,false,false
+BLM-CUST-000339,anika.sharma339@example.com,Anika,Sharma,1-539-555-0139,Gold,5063,2025-06-16,San Jose,CA,US,true,false,false
+BLM-CUST-000340,isha.chen273@example.com,Chen,Tanaka,(540) 555-0140,Silver,584,2024-07-03,Seattle,WA,US,true,false,false
+BLM-CUST-000341,chloe.menon341@example.com,Chloe,Menon,541.555.0141,Gold,1640,2024-06-28,Newark,NJ,US,true,false,true
+BLM-CUST-000342,Diya.liu342@example.com,Diya,Liu,(542) 555-0142,Bronze,498,2022-01-04,Miami,FL,US,true,false,false
+BLM-CUST-000343,chen.sato343@example.com,Chen,Sato,+1-543-555-0143,Bronze,80,2026-07-18,Newark,NJ,US,true,true,false
+BLM-CUST-000344,Reyansh.williams344@example.com,Reyansh,Williams,+1-544-555-0144,Bronze,10,2025-01-23,Miami,FL,US,false,false,true
+BLM-CUST-000345,ella.wilson345@example.com,Ella,Wilson,545.555.0145,Bronze,20,2023-01-17,Houston,TX,US,true,true,true
+BLM-CUST-000346,benjamin.iyer346@example.com,Benjamin,Iyer,546.555.0146,Bronze,119,2022-03-14,Dallas,TX,US,true,true,false
+BLM-CUST-000347,harper.rao347@example.com,Harper,Rao,5475550147,Silver,953,2025-12-27,Atlanta,GA,US,false,false,false
+BLM-CUST-000348,Ava.kim348@example.com,Ava,Kim,548.555.0148,Gold,2599,2021-01-25,Phoenix,AZ,US,true,false,true
+BLM-CUST-000349,mateo.tanaka349@example.com,Mateo,Tanaka,(549) 555-0149,Bronze,368,2025-10-03,Columbus,OH,US,true,true,false
+BLM-CUST-000350,amelia.johnson350@example.com,Amelia,Johnson,1-550-555-0150,Bronze,83,2025-01-08,Chicago,IL,US,true,false,true
+BLM-CUST-000351,lucia.miller351@example.com,Lucia,Miller,5515550151,Silver,1304,2026-08-26,Dallas,TX,US,false,false,true
+BLM-CUST-000352,mateo.garcia352@example.com,Mateo,Garcia,1-552-555-0152,Bronze,385,2024-05-04,Boston,MA,US,true,true,false
+BLM-CUST-000353,Anaya.gupta353@example.com,Anaya,Gupta,5535550153,Gold,2000,2021-01-26,Chicago,IL,US,true,true,true
+BLM-CUST-000354,dhruv.iyer354@example.com,Dhruv,Iyer,+1-554-555-0154,Bronze,283,2022-01-01,Raleigh,NC,US,true,false,true
+BLM-CUST-000355,riya.liu355@example.com,Riya,Liu,+1-555-555-0155,Silver,644,2022-03-10,San Jose,CA,US,true,false,false
+BLM-CUST-000356,advait.gupta356@example.com,Advait,Gupta,1-556-555-0156,Silver,1125,2024-01-01,Portland,OR,US,true,false,false
+BLM-CUST-000357,Benjamin.sharma357@example.com,Benjamin,Sharma,557.555.0157,Gold,5712,2025-10-24,Denver,CO,US,false,false,false
+BLM-CUST-000358,maya.wang358@example.com,Maya,Wang,5585550158,Bronze,460,2022-10-12,Boston,MA,US,true,false,false
+BLM-CUST-000359,kiara.iyer359@example.com,Kiara,Iyer,1-559-555-0159,Silver,982,2021-12-14,San Jose,CA,US,false,true,false
+BLM-CUST-000360,wei.davis360@example.com,Wei,Davis,1-560-555-0160,Silver,888,2023-02-14,Dallas,TX,US,false,false,false
+BLM-CUST-000361,advait.miller361@example.com,Advait,Miller,(561) 555-0161,Bronze,394,2025-05-19,Austin,TX,US,true,false,false
+BLM-CUST-000362,vihaan.williams362@example.com,Vihaan,Williams,562.555.0162,Bronze,490,2025-07-14,Atlanta,GA,US,true,false,false
+BLM-CUST-000363,mia.nair363@example.com,Mia,Nair,+1-563-555-0163,Bronze,471,2023-07-08,Boston,MA,US,false,true,true
+BLM-CUST-000364,leo.brown364@example.com,Leo,Brown,5645550164,Bronze,266,2021-12-28,Miami,FL,US,false,false,false
+BLM-CUST-000365,owen.garcia365@example.com,Owen,Garcia,+1-565-555-0165,Bronze,251,2021-02-05,Raleigh,NC,US,true,false,false
+BLM-CUST-000366,Reyansh.williams366@example.com,Reyansh,Williams,5665550166,Gold,2712,2025-07-20,Phoenix,AZ,US,true,false,true
+BLM-CUST-000367,hiro.gupta367@example.com,Hiro,Gupta,1-567-555-0167,Silver,1411,2026-07-12,Columbus,OH,US,true,false,false
+BLM-CUST-000368,isha.li368@example.com,Isha,Li,1-568-555-0168,Bronze,451,2026-08-23,Seattle,WA,US,true,false,false
+BLM-CUST-000369,lucia.menon369@example.com,Lucia,Menon,+1-569-555-0169,Gold,5769,2025-04-08,San Jose,CA,US,false,false,true
+BLM-CUST-000370,ethan.nair370@example.com,Ethan,Nair,+1-570-555-0170,Silver,1107,2022-04-01,Denver,CO,US,false,false,false
+BLM-CUST-000371,reyansh.brown371@example.com,Reyansh,Brown,571.555.0171,Bronze,282,2024-06-01,Seattle,WA,US,true,true,true
+BLM-CUST-000372,olivia.sato372@example.com,Olivia,Sato,1-572-555-0172,Bronze,26,2021-04-20,San Jose,CA,US,false,true,true
+BLM-CUST-000373,Arjun.chen373@example.com,Arjun,Chen,+1-573-555-0173,Bronze,14,2026-04-18,Seattle,WA,US,true,true,false
+BLM-CUST-000374,Grace.wang374@example.com,Grace,Wang,+1-574-555-0174,Bronze,387,2026-07-09,Houston,TX,US,true,false,true
+BLM-CUST-000375,reyansh.johnson375@example.com,Reyansh,Johnson,575.555.0175,Gold,3429,2021-04-12,Denver,CO,US,true,true,false
+BLM-CUST-000376,owen.moore376@example.com,Owen,Moore,576.555.0176,Bronze,157,2022-03-26,Denver,CO,US,true,false,true
+BLM-CUST-000377,Riya.rao377@example.com,Riya,Rao,577.555.0177,Bronze,475,2024-04-06,Phoenix,AZ,US,true,false,true
+BLM-CUST-000378,olivia.rao378@example.com,Olivia,Rao,578.555.0178,Bronze,5,2026-07-09,Houston,TX,US,true,false,false
+BLM-CUST-000379,aditya.garcia379@example.com,Aditya,Garcia,579.555.0179,Bronze,0,2022-07-19,Portland,OR,US,true,false,false
+BLM-CUST-000380,mason.johnson380@example.com,Mason,Johnson,1-580-555-0180,Bronze,138,2024-06-08,Houston,TX,US,true,true,false
+BLM-CUST-000381,ishaan.patel381@example.com,Ishaan,Patel,1-581-555-0181,Silver,1128,2022-11-21,Raleigh,NC,US,true,false,false
+BLM-CUST-000382,dhruv.johnson382@example.com,Dhruv,Johnson,(582) 555-0182,Bronze,24,2026-07-03,Austin,TX,US,true,false,false
+BLM-CUST-000383,harper.brown383@example.com,Harper,Brown,(583) 555-0183,Bronze,149,2023-07-07,Boston,MA,US,true,false,false
+BLM-CUST-000384,Aditya.kim384@example.com,Aditya,Kim,1-584-555-0184,Silver,1353,2021-12-07,Denver,CO,US,true,false,true
+BLM-CUST-000385,james.moore385@example.com,James,Moore,585.555.0185,Bronze,315,2024-08-05,Austin,TX,US,false,true,false
+BLM-CUST-000386,Maya.menon386@example.com,Maya,Menon,+1-586-555-0186,Bronze,185,2023-08-10,Portland,OR,US,true,false,true
+BLM-CUST-000387,mateo.menon387@example.com,Mateo,Menon,1-587-555-0187,Bronze,69,2026-01-13,Chicago,IL,US,false,false,false
+BLM-CUST-000388,aarav.patel388@example.com,Aarav,Patel,(588) 555-0188,Silver,794,2022-03-11,Austin,TX,US,true,false,false
+BLM-CUST-000389,Dhruv.gupta389@example.com,Dhruv,Gupta,+1-589-555-0189,Bronze,106,2025-06-15,Austin,TX,US,false,false,true
+BLM-CUST-000390,anika.wilson390@example.com,Anika,Wilson,+1-590-555-0190,Bronze,367,2023-12-26,Boston,MA,US,true,true,false
+BLM-CUST-000391,leo.liu391@example.com,Leo,Liu,1-591-555-0191,Gold,2606,2025-02-06,Columbus,OH,US,true,false,true
+BLM-CUST-000392,chloe.davis392@example.com,Chloe,Davis,+1-592-555-0192,Gold,5755,2021-06-23,Houston,TX,US,true,false,true
+BLM-CUST-000393,lucas.menon393@example.com,Lucas,Menon,5935550193,Bronze,0,2021-01-07,Portland,OR,US,true,false,false
+BLM-CUST-000394,diego.jones394@example.com,Diego,Jones,594.555.0194,Bronze,52,2021-08-23,Columbus,OH,US,true,false,true
+BLM-CUST-000395,ella.davis395@example.com,Ella,Davis,5955550195,Gold,4254,2024-03-15,Chicago,IL,US,false,true,true
+BLM-CUST-000396,maya.rao396@example.com,Maya,Rao,1-596-555-0196,Bronze,444,2022-03-27,Atlanta,GA,US,true,false,true
+BLM-CUST-000397,kiara.zhang397@example.com,Kiara,Zhang,(597) 555-0197,Bronze,8,2022-04-07,Chicago,IL,US,true,false,false
+BLM-CUST-000398,ethan.sato398@example.com,Ethan,Sato,+1-598-555-0198,Silver,1377,2025-07-24,Dallas,TX,US,false,false,true
+BLM-CUST-000399,ella.johnson399@example.com,Ella,Johnson,1-599-555-0199,Bronze,118,2024-11-12,Raleigh,NC,US,true,false,true
+BLM-CUST-000400,benjamin.wilson400@example.com,Benjamin,Wilson,1-600-555-0100,Silver,864,2021-06-20,Raleigh,NC,US,true,false,true
+BLM-CUST-000401,ava.chen401@example.com,Ava,Chen,1-601-555-0101,Bronze,51,2026-08-13,Austin,TX,US,true,false,false
+BLM-CUST-000402,ava.li402@example.com,Ava,Li,+1-602-555-0102,Silver,531,2025-02-21,Columbus,OH,US,false,true,false
+BLM-CUST-000403,henry.patel403@example.com,Henry,Patel,603.555.0103,Gold,4682,2025-04-21,Chicago,IL,US,true,false,true
+BLM-CUST-000404,reyansh.kapoor404@example.com,Reyansh,Kapoor,604.555.0104,Bronze,9,2025-01-19,Dallas,TX,US,true,false,true
+BLM-CUST-000405,olivia.chen405@example.com,Olivia,Chen,605.555.0105,Silver,805,2023-05-27,Austin,TX,US,true,false,true
+BLM-CUST-000406,liam.iyer406@example.com,Liam,Iyer,1-606-555-0106,Silver,834,2026-06-22,Houston,TX,US,true,true,false
+BLM-CUST-000407,mia.johnson407@example.com,Mia,Johnson,1-607-555-0107,Bronze,194,2021-02-28,Dallas,TX,US,false,false,true
+BLM-CUST-000408,Mia.patel408@example.com,Mia,Patel,(608) 555-0108,Bronze,213,2021-07-20,Columbus,OH,US,true,false,true
+BLM-CUST-000409,olivia.menon409@example.com,Olivia,Menon,(609) 555-0109,Bronze,212,2022-05-26,Houston,TX,US,true,false,false
+BLM-CUST-000410,ella.patel410@example.com,Ella,Patel,6105550110,Gold,3789,2023-10-20,Austin,TX,US,false,true,true
+BLM-CUST-000411,isha.sato411@example.com,Isha,Sato,+1-611-555-0111,Silver,985,2023-11-20,Atlanta,GA,US,true,false,false
+BLM-CUST-000412,priya.wang412@example.com,Priya,Wang,612.555.0112,Bronze,405,2022-11-19,Chicago,IL,US,true,false,true
+BLM-CUST-000413,arjun.li413@example.com,Arjun,Li,+1-613-555-0113,Gold,5967,2023-06-03,Atlanta,GA,US,true,true,true
+BLM-CUST-000414,zara.tanaka414@example.com,Zara,Tanaka,1-614-555-0114,Silver,955,2022-07-23,Chicago,IL,US,true,false,false
+BLM-CUST-000415,Riya.chen415@example.com,Riya,Chen,+1-615-555-0115,Gold,5959,2021-03-28,Boston,MA,US,true,true,true
+BLM-CUST-000416,mia.davis416@example.com,Mia,Davis,6165550116,Silver,1165,2026-08-25,Seattle,WA,US,true,false,false
+BLM-CUST-000417,reyansh.reddy417@example.com,Reyansh,Reddy,1-617-555-0117,Bronze,197,2022-04-07,Dallas,TX,US,true,false,false
+BLM-CUST-000418,vivaan.iyer418@example.com,Vivaan,Iyer,(618) 555-0118,Bronze,189,2021-03-18,Atlanta,GA,US,false,true,true
+BLM-CUST-000419,james.rao419@example.com,James,Rao,6195550119,Bronze,30,2026-09-29,Raleigh,NC,US,true,true,true
+BLM-CUST-000420,emma.chen420@example.com,Emma,Chen,1-620-555-0120,Silver,1242,2025-01-02,Boston,MA,US,false,true,true
+BLM-CUST-000421,wei.nguyen421@example.com,Wei,Nguyen,(621) 555-0121,Gold,4416,2022-08-04,Chicago,IL,US,false,false,false
+BLM-CUST-000422,aarav.davis422@example.com,Aarav,Davis,(622) 555-0122,Bronze,101,2025-06-20,Denver,CO,US,true,false,true
+BLM-CUST-000423,ella.davis423@example.com,Ella,Davis,623.555.0123,Bronze,202,2026-07-25,Boston,MA,US,true,true,true
+BLM-CUST-000424,henry.rao424@example.com,Henry,Rao,624.555.0124,Bronze,39,2025-07-02,Columbus,OH,US,true,false,true
+BLM-CUST-000425,sara.reddy425@example.com,Sara,Reddy,1-625-555-0125,Silver,1387,2021-05-05,Boston,MA,US,true,true,true
+BLM-CUST-000426,sofia.jones426@example.com,Sofia,Jones,626.555.0126,Silver,654,2021-08-02,Houston,TX,US,false,true,false
+BLM-CUST-000427,advait.zhang427@example.com,Advait,Zhang,1-627-555-0127,Bronze,67,2021-10-15,Columbus,OH,US,false,false,false
+BLM-CUST-000428,grace.sharma428@example.com,Grace,Sharma,628.555.0128,Silver,1110,2023-12-07,Miami,FL,US,true,false,false
+BLM-CUST-000429,ling.chen429@example.com,Ling,Chen,6295550129,Silver,1309,2024-05-08,Portland,OR,US,true,true,false
+BLM-CUST-000430,aditya.garcia430@example.com,Aditya,Garcia,+1-630-555-0130,Silver,821,2021-05-16,Phoenix,AZ,US,true,false,false
+BLM-CUST-000431,henry.garcia431@example.com,Henry,Garcia,631.555.0131,Bronze,453,2022-03-18,Phoenix,AZ,US,true,false,false
+BLM-CUST-000432,riya.li432@example.com,Riya,Li,6325550132,Silver,975,2024-03-18,San Jose,CA,US,true,false,true
+BLM-CUST-000433,maya.davis433@example.com,Maya,Davis,+1-633-555-0133,Bronze,50,2025-09-21,Denver,CO,US,true,false,false
+BLM-CUST-000434,hiro.wilson434@example.com,Hiro,Wilson,+1-634-555-0134,Bronze,235,2025-11-12,Dallas,TX,US,true,true,false
+BLM-CUST-000435,arjun.bose435@example.com,Arjun,Bose,635.555.0135,Bronze,449,2021-07-08,Chicago,IL,US,false,false,true
+BLM-CUST-000436,sofia.liu436@example.com,Sofia,Liu,1-636-555-0136,Silver,1239,2023-09-22,Miami,FL,US,true,false,true
+BLM-CUST-000437,ishaan.chen437@example.com,Ishaan,Chen,6375550137,Bronze,440,2022-09-27,Phoenix,AZ,US,true,true,false
+BLM-CUST-000438,mason.rao438@example.com,Mason,Rao,638.555.0138,Bronze,426,2024-06-13,Boston,MA,US,false,false,true
+BLM-CUST-000439,ethan.nguyen439@example.com,Ethan,Nguyen,6395550139,Bronze,212,2022-05-13,San Jose,CA,US,true,false,true
+BLM-CUST-000440,anika.gupta440@example.com,Anika,Gupta,+1-640-555-0140,Silver,776,2021-02-13,Newark,NJ,US,true,true,false
+BLM-CUST-000441,owen.sharma441@example.com,Owen,Sharma,641.555.0141,Silver,1473,2023-08-15,Columbus,OH,US,true,true,true
+BLM-CUST-000442,priya.sato442@example.com,Priya,Sato,(642) 555-0142,Gold,4159,2022-04-19,Dallas,TX,US,true,true,true
+BLM-CUST-000443,sophia.menon443@example.com,Sophia,Menon,+1-643-555-0143,Bronze,126,2026-05-12,Seattle,WA,US,true,true,true
+BLM-CUST-000444,reyansh.garcia444@example.com,Reyansh,Garcia,1-644-555-0144,Bronze,111,2023-07-18,Seattle,WA,US,false,true,false
+BLM-CUST-000445,diya.wilson445@example.com,Diya,Wilson,(645) 555-0145,Bronze,313,2022-02-17,Denver,CO,US,false,true,true
+BLM-CUST-000446,mia.miller446@example.com,Mia,Miller,+1-646-555-0146,Silver,519,2025-03-17,Atlanta,GA,US,true,true,false
+BLM-CUST-000447,priya.johnson447@example.com,Priya,Johnson,647.555.0147,Bronze,492,2024-07-15,San Jose,CA,US,true,false,false
+BLM-CUST-000448,noah.iyer448@example.com,Noah,Iyer,1-648-555-0148,Gold,5350,2022-05-11,Denver,CO,US,false,true,true
+BLM-CUST-000449,vivaan.patel449@example.com,Vivaan,Patel,649.555.0149,Bronze,413,2024-12-13,Houston,TX,US,true,false,true
+BLM-CUST-000450,dhruv.reddy450@example.com,Dhruv,Reddy,+1-650-555-0150,Silver,505,2024-10-04,Newark,NJ,US,true,true,false
+BLM-CUST-000451,isha.chen451@example.com,Isha,Chen,+1-651-555-0151,Bronze,126,2021-12-20,Boston,MA,US,true,true,true
+BLM-CUST-000452,emma.nair452@example.com,Emma,Nair,1-652-555-0152,Bronze,214,2026-07-25,San Jose,CA,US,true,true,false
+BLM-CUST-000453,yuki.tanaka453@example.com,Yuki,Tanaka,1-653-555-0153,Bronze,228,2023-08-26,Boston,MA,US,true,true,false
+BLM-CUST-000454,vihaan.liu454@example.com,Vihaan,Liu,+1-654-555-0154,Gold,3765,2026-07-16,Seattle,WA,US,false,false,false
+BLM-CUST-000455,leo.sharma455@example.com,Leo,Sharma,+1-655-555-0155,Silver,683,2026-09-20,Atlanta,GA,US,true,false,false
+BLM-CUST-000456,diya.menon456@example.com,Diya,Menon,(656) 555-0156,Silver,1024,2023-08-02,Raleigh,NC,US,true,false,true
+BLM-CUST-000457,james.patel457@example.com,James,Patel,(657) 555-0157,Gold,3871,2026-08-01,Austin,TX,US,true,true,false
+BLM-CUST-000458,wei.nguyen421@example.com,Olivia,Moore,(658) 555-0158,Silver,1372,2023-07-22,Portland,OR,US,true,false,true
+BLM-CUST-000459,riya.patel459@example.com,Riya,Patel,(659) 555-0159,Gold,5488,2024-08-20,Boston,MA,US,true,false,true
+BLM-CUST-000460,mia.nair460@example.com,Mia,Nair,6605550160,Silver,648,2021-09-09,Dallas,TX,US,true,false,true
+BLM-CUST-000461,emma.kim461@example.com,Emma,Kim,(661) 555-0161,Gold,2740,2025-12-26,Dallas,TX,US,true,false,true
+BLM-CUST-000462,Sofia.liu462@example.com,Sofia,Liu,1-662-555-0162,Bronze,306,2025-01-05,Chicago,IL,US,true,true,true
+BLM-CUST-000463,noah.rao463@example.com,Noah,Rao,+1-663-555-0163,Bronze,319,2025-01-19,Newark,NJ,US,true,true,false
+BLM-CUST-000464,mateo.gupta464@example.com,Mateo,Gupta,664.555.0164,Gold,5511,2024-03-06,Austin,TX,US,true,false,true
+BLM-CUST-000465,lucia.johnson465@example.com,Lucia,Johnson,(665) 555-0165,Silver,517,2026-03-23,Houston,TX,US,true,false,false
+BLM-CUST-000466,riya.park466@example.com,Riya,Park,6665550166,Bronze,237,2023-02-06,Raleigh,NC,US,true,false,false
+BLM-CUST-000467,Olivia.rao467@example.com,Olivia,Rao,667.555.0167,Silver,1114,2021-09-27,Boston,MA,US,true,false,true
+BLM-CUST-000468,mia.park468@example.com,Mia,Park,(668) 555-0168,Bronze,132,2025-04-09,Houston,TX,US,true,false,false
+BLM-CUST-000469,hiro.iyer469@example.com,Hiro,Iyer,669.555.0169,Silver,1178,2025-02-01,Denver,CO,US,true,true,true
+BLM-CUST-000470,henry.wilson470@example.com,Henry,Wilson,670.555.0170,Bronze,274,2026-04-10,Denver,CO,US,true,true,false
+BLM-CUST-000471,vihaan.brown471@example.com,Vihaan,Brown,671.555.0171,Bronze,306,2022-09-05,Austin,TX,US,true,true,true
+BLM-CUST-000472,zara.liu472@example.com,Zara,Liu,1-672-555-0172,Bronze,350,2025-09-02,Atlanta,GA,US,false,false,true
+BLM-CUST-000473,dhruv.miller473@example.com,Dhruv,Miller,1-673-555-0173,Gold,2325,2024-03-01,Houston,TX,US,true,false,true
+BLM-CUST-000474,riya.johnson474@example.com,Riya,Johnson,+1-674-555-0174,Silver,1243,2021-09-06,Portland,OR,US,true,true,false
+BLM-CUST-000475,vihaan.wilson475@example.com,Vihaan,Wilson,(675) 555-0175,Silver,577,2026-07-01,Chicago,IL,US,true,false,false
+BLM-CUST-000476,diya.jones476@example.com,Diya,Jones,676.555.0176,Gold,4415,2025-12-28,Denver,CO,US,true,false,true
+BLM-CUST-000477,noah.liu477@example.com,Noah,Liu,677.555.0177,Silver,585,2022-06-15,Miami,FL,US,false,true,false
+BLM-CUST-000478,dhruv.menon288@example.com,Lucas,Park,(678) 555-0178,Bronze,88,2026-06-28,Columbus,OH,US,true,false,false
+BLM-CUST-000479,ava.zhang479@example.com,Ava,Zhang,(679) 555-0179,Bronze,187,2021-05-08,Dallas,TX,US,true,false,true
+BLM-CUST-000480,kiara.miller480@example.com,Kiara,Miller,6805550180,Gold,3856,2024-05-26,Austin,TX,US,true,false,true
+BLM-CUST-000481,henry.bose481@example.com,Henry,Bose,6815550181,Bronze,487,2026-09-04,Phoenix,AZ,US,true,true,true
+BLM-CUST-000482,lucas.davis482@example.com,Lucas,Davis,(682) 555-0182,Bronze,46,2023-11-27,Boston,MA,US,true,true,true
+BLM-CUST-000483,Riya.moore483@example.com,Riya,Moore,683.555.0183,Silver,1029,2026-08-10,Raleigh,NC,US,true,false,true
+BLM-CUST-000484,sophia.brown484@example.com,Sophia,Brown,1-684-555-0184,Bronze,479,2025-04-09,Austin,TX,US,false,false,true
+BLM-CUST-000485,sara.kapoor485@example.com,Sara,Kapoor,685.555.0185,Silver,791,2021-09-16,Miami,FL,US,true,true,false
+BLM-CUST-000486,vihaan.nguyen486@example.com,Vihaan,Nguyen,686.555.0186,Bronze,320,2026-08-06,Seattle,WA,US,true,true,false
+BLM-CUST-000487,arjun.wilson487@example.com,Arjun,Wilson,(687) 555-0187,Bronze,443,2025-06-07,Columbus,OH,US,true,true,true
+BLM-CUST-000488,liam.park488@example.com,Liam,Park,+1-688-555-0188,Silver,720,2026-01-12,Seattle,WA,US,true,true,false
+BLM-CUST-000489,reyansh.zhang489@example.com,Reyansh,Zhang,689.555.0189,Silver,583,2025-11-27,Dallas,TX,US,true,false,true
+BLM-CUST-000490,kiara.reddy490@example.com,Kiara,Reddy,+1-690-555-0190,Silver,1477,2026-09-16,Portland,OR,US,true,true,false
+BLM-CUST-000491,mei.johnson491@example.com,Mei,Johnson,691.555.0191,Gold,4794,2025-02-07,Austin,TX,US,false,true,false
+BLM-CUST-000492,noah.johnson492@example.com,Noah,Johnson,1-692-555-0192,Bronze,221,2025-10-27,Atlanta,GA,US,true,false,true
+BLM-CUST-000493,hiro.iyer493@example.com,Hiro,Iyer,1-693-555-0193,Bronze,314,2023-01-13,Atlanta,GA,US,true,false,true
+BLM-CUST-000494,ling.liu494@example.com,Ling,Liu,1-694-555-0194,Bronze,98,2025-11-18,Miami,FL,US,true,true,true
+BLM-CUST-000495,benjamin.wilson495@example.com,Benjamin,Wilson,+1-695-555-0195,Silver,1229,2026-06-01,Seattle,WA,US,true,false,true
+BLM-CUST-000496,Ethan.sato496@example.com,Ethan,Sato,(696) 555-0196,Gold,3263,2026-07-21,Austin,TX,US,true,true,true
+BLM-CUST-000497,ava.iyer497@example.com,Ava,Iyer,697.555.0197,Bronze,452,2024-03-23,Columbus,OH,US,true,true,true
+BLM-CUST-000498,Aditya.miller498@example.com,Aditya,Miller,1-698-555-0198,Bronze,59,2026-09-27,Phoenix,AZ,US,true,false,true
+BLM-CUST-000499,grace.sharma499@example.com,Grace,Sharma,6995550199,Bronze,380,2023-01-22,Phoenix,AZ,US,true,false,true
+BLM-CUST-000500,arjun.kapoor500@example.com,Arjun,Kapoor,+1-700-555-0100,Bronze,452,2024-12-24,Houston,TX,US,true,false,false

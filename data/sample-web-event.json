@@ -1,0 +1,29 @@
+{
+  "_id": "evt-web-20260818-000341",
+  "timestamp": "2026-08-18T19:44:12Z",
+  "eventType": "commerce.productListAdds",
+  "identityMap": {
+    "ECID": [
+      { "id": "38472919862011456743", "primary": true }
+    ]
+  },
+  "commerce": {
+    "productListAdds": {
+      "value": 1
+    }
+  },
+  "productListItems": [
+    {
+      "SKU": "BLM-SER-VITC-30",
+      "name": "Vitamin C Serum 30 ml",
+      "priceTotal": 34.00,
+      "quantity": 1
+    }
+  ],
+  "_bloom": {
+    "web": {
+      "pageName": "product:skincare:vitamin-c-serum-30ml",
+      "channel": "mobile-app"
+    }
+  }
+}

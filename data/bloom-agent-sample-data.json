@@ -1,0 +1,17 @@
+{
+  "about": "Fictional practice data for the episode 35 exercise (AEP From Zero). Bloom is a fictional brand. Times are illustrative and relative to the agent's run.",
+  "agent_run": {"day": "today", "days_ago": 0, "time": "09:00"},
+  "audiences": [
+    {"name": "Lapsed 90", "rule": "Last order more than 90 days ago and email consent true", "estimate": 3890, "counted_against": "the 10,000-customer extract"},
+    {"name": "Gold Members", "rule": "Loyalty tier is Gold", "estimate": null, "counted_against": "not given; leave it as a placeholder"}
+  ],
+  "offers": [
+    {"name": "20% Comeback", "eligible": "Lapsed 90 only", "ranking": "Ranks above Early Access Drop"},
+    {"name": "Early Access Drop", "eligible": "Gold only", "ranking": "Second"},
+    {"name": "Free Shipping", "eligible": "Everyone (the fallback)", "ranking": "Used only when nothing else qualifies"}
+  ],
+  "send_log": [
+    {"day": "yesterday", "days_ago": 1, "time": "15:00", "message": "Bloom Win-Back", "audience": "Lapsed 90"},
+    {"day": "six days ago", "days_ago": 6, "time": "10:00", "message": "Bloom Gold Thank-You", "audience": "High-Value Loyalists"}
+  ]
+}

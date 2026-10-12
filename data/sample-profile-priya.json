@@ -1,0 +1,43 @@
+{
+  "_bloom": {
+    "loyalty": {
+      "tier": "Gold",
+      "points": 2340,
+      "joinDate": "2023-11-02"
+    },
+    "preferences": {
+      "favouriteCategory": "Skincare",
+      "marketingConsent": {
+        "email": true,
+        "sms": false,
+        "push": true
+      }
+    }
+  },
+  "person": {
+    "name": {
+      "firstName": "Priya",
+      "lastName": "Sharma"
+    },
+    "birthDayAndMonth": "03-14"
+  },
+  "personalEmail": {
+    "address": "priya.sharma@example.com"
+  },
+  "mobilePhone": {
+    "number": "+1-469-555-0142"
+  },
+  "homeAddress": {
+    "city": "Dallas",
+    "stateProvince": "TX",
+    "countryCode": "US"
+  },
+  "identityMap": {
+    "Email": [
+      { "id": "priya.sharma@example.com", "primary": true }
+    ],
+    "BloomID": [
+      { "id": "BLM-CUST-004217" }
+    ]
+  }
+}

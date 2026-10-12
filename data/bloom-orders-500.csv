@@ -1,0 +1,501 @@
+order_id,bloom_id,email,order_timestamp,sku,product_name,quantity,price,currency,ship_city,ship_state
+BLM-110327,BLM-CUST-000341,chloe.menon341@example.com,2026-08-24T19:40:28Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Newark,NJ
+BLM-122854,BLM-CUST-000169,noah.miller169@example.com,2026-03-11T12:41:46Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Seattle,WA
+BLM-112928,BLM-CUST-000360,wei.davis360@example.com,2026-07-06T16:54:53Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Dallas,TX
+BLM-115164,BLM-CUST-000462,Sofia.liu462@example.com,2026-08-23T14:43:08Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Chicago,IL
+BLM-124043,BLM-CUST-000033,james.tanaka33@example.com,2026-05-25T09:25:06Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Atlanta,GA
+BLM-113954,BLM-CUST-000336,aarav.jones336@example.com,2026-04-22T20:15:35Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Columbus,OH
+BLM-100500,BLM-CUST-000175,sofia.liu175@example.com,2026-04-25T23:42:57Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Atlanta,GA
+BLM-115237,BLM-CUST-000028,arjun.brown28@example.com,2026-02-03T16:19:17Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,3,114.00,USD,Newark,NJ
+BLM-108570,BLM-CUST-000392,chloe.davis392@example.com,2026-02-05T01:44:30Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Houston,TX
+BLM-114635,BLM-CUST-000289,Liam.wilson289@example.com,2026-02-25T11:25:30Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Boston,MA
+BLM-104923,BLM-CUST-000356,advait.gupta356@example.com,2026-06-05T14:26:22Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Portland,OR
+BLM-105889,BLM-CUST-000340,isha.chen273@example.com,2026-08-02T19:50:18Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Seattle,WA
+BLM-104723,BLM-CUST-000367,hiro.gupta367@example.com,2026-06-07T18:50:07Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Columbus,OH
+BLM-124502,BLM-CUST-000345,ella.wilson345@example.com,2026-05-08T18:56:40Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-110897,BLM-CUST-000062,sofia.sharma62@example.com,2026-04-09T14:44:31Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,2,76.00,USD,Houston,TX
+BLM-112413,BLM-CUST-000173,diego.kapoor173@example.com,2026-02-08T20:31:48Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Chicago,IL
+BLM-103276,BLM-CUST-000171,kiara.bose171@example.com,2026-04-22T14:24:46Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,3,72.00,USD,Newark,NJ
+BLM-103409,BLM-CUST-000321,owen.sharma321@example.com,2026-03-05T22:57:58Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,2,48.00,USD,Boston,MA
+BLM-108275,BLM-CUST-000240,Kabir.nguyen240@example.com,2026-07-11T04:59:06Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Boston,MA
+BLM-122008,BLM-CUST-000233,ling.tanaka233@example.com,2026-01-06T17:45:47Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,2,76.00,USD,Seattle,WA
+BLM-124824,BLM-CUST-000474,riya.johnson474@example.com,2026-02-06T05:41:40Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,3,27.00,USD,Portland,OR
+BLM-118020,BLM-CUST-000010,aarav.kim10@example.com,2026-04-19T15:59:16Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Columbus,OH
+BLM-101216,BLM-CUST-000287,sara.zhang287@example.com,2026-03-25T16:50:48Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,2,68.00,USD,Atlanta,GA
+BLM-122690,BLM-CUST-000433,maya.davis433@example.com,2026-08-17T22:02:06Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,3,126.00,USD,Denver,CO
+BLM-117165,BLM-CUST-000118,Emma.zhang118@example.com,2026-07-12T04:18:46Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-107419,BLM-CUST-000268,Mia.nguyen268@example.com,2026-03-22T15:36:07Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Raleigh,NC
+BLM-103099,BLM-CUST-000417,reyansh.reddy417@example.com,2026-02-05T16:26:57Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,3,60.00,USD,Dallas,TX
+BLM-117797,BLM-CUST-000442,priya.sato442@example.com,2026-02-11T08:10:21Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Dallas,TX
+BLM-115502,BLM-CUST-000258,diego.reddy258@example.com,2026-03-13T10:53:42Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,2,56.00,USD,Raleigh,NC
+BLM-101904,BLM-CUST-000330,aditya.moore330@example.com,2026-02-26T01:01:51Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,San Jose,CA
+BLM-113740,BLM-CUST-000332,riya.sharma332@example.com,2026-08-28T15:47:19Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Dallas,TX
+BLM-115503,BLM-CUST-000459,riya.patel459@example.com,2026-07-15T00:28:19Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,3,72.00,USD,Boston,MA
+BLM-115678,BLM-CUST-000400,benjamin.wilson400@example.com,2026-05-09T22:08:24Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Raleigh,NC
+BLM-116657,BLM-CUST-000398,ethan.sato398@example.com,2026-04-01T01:26:20Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Dallas,TX
+BLM-120081,BLM-CUST-000460,mia.nair460@example.com,2026-04-18T18:14:18Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Dallas,TX
+BLM-111845,BLM-CUST-000253,diego.rao253@example.com,2026-05-02T07:58:34Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,2,32.00,USD,Columbus,OH
+BLM-108297,BLM-CUST-000487,arjun.wilson487@example.com,2026-02-18T20:27:39Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Columbus,OH
+BLM-109674,BLM-CUST-000412,priya.wang412@example.com,2026-01-05T07:26:29Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Chicago,IL
+BLM-111784,BLM-CUST-000122,ishaan.li122@example.com,2026-07-15T17:15:33Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Newark,NJ
+BLM-113168,BLM-CUST-000254,chen.gupta254@example.com,2026-08-13T04:45:41Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Raleigh,NC
+BLM-117638,BLM-CUST-000003,liam.iyer2@example.com,2026-03-10T13:07:07Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,3,72.00,USD,Seattle,WA
+BLM-123780,BLM-CUST-000360,wei.davis360@example.com,2026-06-03T02:26:09Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Dallas,TX
+BLM-115280,BLM-CUST-000439,ethan.nguyen439@example.com,2026-03-10T11:49:06Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,San Jose,CA
+BLM-116083,BLM-CUST-000359,kiara.iyer359@example.com,2026-03-01T20:29:48Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,San Jose,CA
+BLM-112964,BLM-CUST-000135,anaya.liu135@example.com,2026-06-10T04:00:38Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Houston,TX
+BLM-124251,BLM-CUST-000308,sara.kim308@example.com,2026-01-04T17:14:18Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Raleigh,NC
+BLM-115553,BLM-CUST-000040,chen.chen40@example.com,2026-08-01T12:30:25Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Columbus,OH
+BLM-112944,BLM-CUST-000165,harper.davis165@example.com,2026-02-04T02:45:27Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Seattle,WA
+BLM-115268,BLM-CUST-000427,advait.zhang427@example.com,2026-04-28T04:17:03Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,3,78.00,USD,Columbus,OH
+BLM-103145,BLM-CUST-000232,harper.park232@example.com,2026-04-15T17:32:35Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Chicago,IL
+BLM-114395,BLM-CUST-000189,liam.jones189@example.com,2026-08-05T08:23:33Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,2,48.00,USD,Columbus,OH
+BLM-111478,BLM-CUST-000468,mia.park468@example.com,2026-01-01T04:24:16Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,2,68.00,USD,Houston,TX
+BLM-108034,BLM-CUST-000222,liam.sharma222@example.com,2026-03-09T04:16:25Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Chicago,IL
+BLM-124955,BLM-CUST-000172,benjamin.park172@example.com,2026-02-19T00:05:48Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,3,60.00,USD,San Jose,CA
+BLM-111316,BLM-CUST-000156,Vivaan.patel156@example.com,2026-03-26T08:56:54Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Columbus,OH
+BLM-119298,BLM-CUST-000350,amelia.johnson350@example.com,2026-03-28T10:31:25Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Chicago,IL
+BLM-114009,BLM-CUST-000290,harper.miller290@example.com,2026-03-19T20:32:09Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Atlanta,GA
+BLM-117550,BLM-CUST-000287,sara.zhang287@example.com,2026-07-03T17:06:58Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Atlanta,GA
+BLM-115877,BLM-CUST-000473,dhruv.miller473@example.com,2026-01-06T23:54:01Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Houston,TX
+BLM-113639,BLM-CUST-000116,hiro.kim116@example.com,2026-06-25T17:05:44Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Miami,FL
+BLM-121033,BLM-CUST-000009,sofia.iyer9@example.com,2026-06-04T04:35:06Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Chicago,IL
+BLM-112102,BLM-CUST-000294,diya.rao294@example.com,2026-04-10T05:03:32Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Dallas,TX
+BLM-115542,BLM-CUST-000225,amelia.nguyen225@example.com,2026-06-28T04:53:10Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Columbus,OH
+BLM-114820,BLM-CUST-000217,priya.liu217@example.com,2026-06-15T12:19:27Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Boston,MA
+BLM-124479,BLM-CUST-000030,noah.wilson30@example.com,2026-01-28T14:07:54Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Phoenix,AZ
+BLM-124032,BLM-CUST-000260,sophia.rao260@example.com,2026-05-11T12:39:10Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Dallas,TX
+BLM-124095,BLM-CUST-000158,James.wang158@example.com,2026-03-03T05:04:03Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Dallas,TX
+BLM-107011,BLM-CUST-000299,riya.garcia299@example.com,2026-03-08T02:17:57Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Phoenix,AZ
+BLM-119145,BLM-CUST-000230,diya.smith230@example.com,2026-07-11T04:04:35Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Austin,TX
+BLM-112091,BLM-CUST-000255,olivia.reddy255@example.com,2026-07-11T19:07:11Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Dallas,TX
+BLM-103214,BLM-CUST-000449,vivaan.patel449@example.com,2026-04-25T10:55:09Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Houston,TX
+BLM-101504,BLM-CUST-004217,priya.sharma@example.com,2026-05-18T12:38:20Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Dallas,TX
+BLM-101992,BLM-CUST-000194,ishaan.miller194@example.com,2026-05-21T06:26:44Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Austin,TX
+BLM-123937,BLM-CUST-000025,chloe.sato25@example.com,2026-04-17T15:32:52Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-102677,BLM-CUST-000100,maya.smith100@example.com,2026-03-27T04:02:00Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,2,76.00,USD,Portland,OR
+BLM-124072,BLM-CUST-000349,mateo.tanaka349@example.com,2026-01-10T03:33:53Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-122197,BLM-CUST-000200,arjun.tanaka200@example.com,2026-06-01T19:21:12Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-106728,BLM-CUST-000376,owen.moore376@example.com,2026-01-09T14:40:56Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Denver,CO
+BLM-118235,BLM-CUST-000085,grace.sharma85@example.com,2026-08-06T18:37:13Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Seattle,WA
+BLM-121994,BLM-CUST-000164,mia.garcia164@example.com,2026-01-09T04:27:45Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Denver,CO
+BLM-111530,BLM-CUST-000206,noah.jones206@example.com,2026-01-13T07:17:09Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Chicago,IL
+BLM-111526,BLM-CUST-000354,dhruv.iyer354@example.com,2026-03-01T08:21:05Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Raleigh,NC
+BLM-121170,BLM-CUST-000336,aarav.jones336@example.com,2026-01-24T05:32:53Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-105277,BLM-CUST-000166,yuki.menon166@example.com,2026-07-02T19:58:11Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Houston,TX
+BLM-115535,BLM-CUST-000312,lucia.patel312@example.com,2026-03-18T11:00:32Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Portland,OR
+BLM-119766,BLM-CUST-000227,aditya.iyer227@example.com,2026-04-12T23:43:46Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Denver,CO
+BLM-100626,BLM-CUST-000212,yuki.chen212@example.com,2026-08-22T15:05:47Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Chicago,IL
+BLM-118848,BLM-CUST-000265,Mateo.zhang265@example.com,2026-06-02T05:07:54Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Raleigh,NC
+BLM-115845,BLM-CUST-000092,grace.reddy92@example.com,2026-08-08T10:59:26Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,2,32.00,USD,San Jose,CA
+BLM-122137,BLM-CUST-000163,mia.sharma163@example.com,2026-02-13T22:17:06Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Boston,MA
+BLM-107694,BLM-CUST-000288,dhruv.menon288@example.com,2026-03-06T09:26:28Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Raleigh,NC
+BLM-115032,BLM-CUST-000407,mia.johnson407@example.com,2026-03-02T21:42:18Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,2,68.00,USD,Dallas,TX
+BLM-109140,BLM-CUST-000010,aarav.kim10@example.com,2026-07-11T10:17:56Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Columbus,OH
+BLM-101244,BLM-CUST-000194,ishaan.miller194@example.com,2026-05-12T05:26:10Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Austin,TX
+BLM-119058,BLM-CUST-000053,mateo.smith53@example.com,2026-05-24T06:02:39Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Austin,TX
+BLM-107229,BLM-CUST-000035,ishaan.johnson35@example.com,2026-08-25T11:33:12Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Newark,NJ
+BLM-102082,BLM-CUST-000310,lucas.brown310@example.com,2026-05-08T19:09:38Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Seattle,WA
+BLM-109424,BLM-CUST-000357,Benjamin.sharma357@example.com,2026-05-08T14:11:54Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Denver,CO
+BLM-100090,BLM-CUST-000284,maya.brown284@example.com,2026-01-18T08:45:13Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Raleigh,NC
+BLM-102107,BLM-CUST-000493,hiro.iyer493@example.com,2026-04-02T03:34:27Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Atlanta,GA
+BLM-101201,BLM-CUST-000261,Leo.sato261@example.com,2026-05-13T20:19:37Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,2,48.00,USD,Atlanta,GA
+BLM-106012,BLM-CUST-000235,ava.liu235@example.com,2026-04-04T06:22:40Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Portland,OR
+BLM-116796,BLM-CUST-000347,harper.rao347@example.com,2026-03-21T12:14:46Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Atlanta,GA
+BLM-110748,BLM-CUST-000123,Vihaan.wilson123@example.com,2026-01-16T23:17:08Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,San Jose,CA
+BLM-120224,BLM-CUST-000352,mateo.garcia352@example.com,2026-07-02T14:00:42Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Boston,MA
+BLM-103213,BLM-CUST-000233,ling.tanaka233@example.com,2026-07-18T13:28:08Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Seattle,WA
+BLM-122569,BLM-CUST-000130,sophia.gupta130@example.com,2026-02-02T11:36:53Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Houston,TX
+BLM-100041,BLM-CUST-000201,harper.brown201@example.com,2026-03-20T21:49:05Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Raleigh,NC
+BLM-100171,BLM-CUST-000308,sara.kim308@example.com,2026-01-08T09:01:04Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Raleigh,NC
+BLM-109881,BLM-CUST-000020,henry.park20@example.com,2026-04-15T03:21:16Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,3,78.00,USD,Denver,CO
+BLM-116978,BLM-CUST-000183,anaya.bose183@example.com,2026-01-06T09:47:38Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,3,84.00,USD,Atlanta,GA
+BLM-109619,BLM-CUST-000159,chloe.bose159@example.com,2026-08-03T09:53:43Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Portland,OR
+BLM-106459,BLM-CUST-000368,isha.li368@example.com,2026-03-21T06:08:46Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Seattle,WA
+BLM-119784,BLM-CUST-000187,ethan.liu187@example.com,2026-07-21T20:54:36Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Portland,OR
+BLM-116399,BLM-CUST-000423,ella.davis423@example.com,2026-04-22T13:09:19Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Boston,MA
+BLM-109135,BLM-CUST-000238,olivia.williams238@example.com,2026-02-26T19:54:40Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Houston,TX
+BLM-123888,BLM-CUST-000264,henry.brown264@example.com,2026-07-19T08:00:00Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Raleigh,NC
+BLM-122114,BLM-CUST-000246,isha.kapoor246@example.com,2026-08-28T18:57:43Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Houston,TX
+BLM-101826,BLM-CUST-000008,chloe.davis8@example.com,2026-02-12T09:08:16Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,San Jose,CA
+BLM-110942,BLM-CUST-000481,henry.bose481@example.com,2026-01-17T12:42:11Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,2,52.00,USD,Phoenix,AZ
+BLM-104065,BLM-CUST-000313,mia.kim313@example.com,2026-04-22T07:46:12Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,San Jose,CA
+BLM-100392,BLM-CUST-000264,henry.brown264@example.com,2026-07-18T05:16:52Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Raleigh,NC
+BLM-109981,BLM-CUST-000022,Isha.patel22@example.com,2026-02-13T20:50:37Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Phoenix,AZ
+BLM-121056,BLM-CUST-000133,anika.park133@example.com,2026-03-21T22:10:08Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Newark,NJ
+BLM-115329,BLM-CUST-000158,James.wang158@example.com,2026-03-01T16:50:13Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Dallas,TX
+BLM-108028,BLM-CUST-000174,vivaan.moore174@example.com,2026-01-20T23:20:58Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,3,60.00,USD,Newark,NJ
+BLM-106964,BLM-CUST-000228,anika.reddy228@example.com,2026-05-22T07:39:53Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Chicago,IL
+BLM-104827,BLM-CUST-000343,chen.sato343@example.com,2026-01-13T00:57:43Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Newark,NJ
+BLM-117511,BLM-CUST-000219,noah.sharma219@example.com,2026-08-17T07:43:10Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Atlanta,GA
+BLM-107929,BLM-CUST-000423,ella.davis423@example.com,2026-01-22T16:45:08Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Boston,MA
+BLM-104061,BLM-CUST-000288,dhruv.menon288@example.com,2026-08-25T07:59:05Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Raleigh,NC
+BLM-101355,BLM-CUST-000484,sophia.brown484@example.com,2026-08-04T19:23:05Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Austin,TX
+BLM-119589,BLM-CUST-000347,harper.rao347@example.com,2026-08-27T21:41:04Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Atlanta,GA
+BLM-122139,BLM-CUST-000180,diya.zhang180@example.com,2026-03-17T08:34:59Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,2,56.00,USD,Atlanta,GA
+BLM-106309,BLM-CUST-000142,emma.iyer93@example.com,2026-04-23T06:56:29Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Boston,MA
+BLM-104989,BLM-CUST-000092,grace.reddy92@example.com,2026-03-01T16:18:31Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,San Jose,CA
+BLM-111426,BLM-CUST-000429,ling.chen429@example.com,2026-05-05T23:32:26Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Portland,OR
+BLM-107161,BLM-CUST-000080,amelia.johnson80@example.com,2026-06-03T18:07:42Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Portland,OR
+BLM-102501,BLM-CUST-000497,ava.iyer497@example.com,2026-07-24T22:09:51Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Columbus,OH
+BLM-124579,BLM-CUST-000160,Ling.wilson160@example.com,2026-02-06T12:48:32Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,3,102.00,USD,Austin,TX
+BLM-106849,BLM-CUST-000162,priya.wilson162@example.com,2026-06-19T09:21:57Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Portland,OR
+BLM-114704,BLM-CUST-000441,owen.sharma441@example.com,2026-08-05T10:52:04Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Columbus,OH
+BLM-104616,BLM-CUST-000037,hiro.li37@example.com,2026-06-01T23:32:17Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,3,48.00,USD,Columbus,OH
+BLM-114398,BLM-CUST-000078,arjun.park78@example.com,2026-08-27T04:56:42Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Denver,CO
+BLM-103456,BLM-CUST-000490,kiara.reddy490@example.com,2026-08-09T02:15:15Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Portland,OR
+BLM-114738,BLM-CUST-000321,owen.sharma321@example.com,2026-03-18T04:11:10Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Boston,MA
+BLM-106285,BLM-CUST-000278,anaya.gupta278@example.com,2026-01-28T15:04:28Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,San Jose,CA
+BLM-112613,BLM-CUST-000221,amelia.smith221@example.com,2026-08-13T11:04:33Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-117190,BLM-CUST-000369,lucia.menon369@example.com,2026-01-08T05:55:12Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,San Jose,CA
+BLM-114983,BLM-CUST-000277,leo.menon277@example.com,2026-06-09T02:59:57Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Atlanta,GA
+BLM-122528,BLM-CUST-000134,grace.rao134@example.com,2026-08-21T11:19:28Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-116167,BLM-CUST-000097,grace.li97@example.com,2026-07-22T19:38:43Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Austin,TX
+BLM-100288,BLM-CUST-000178,sara.zhang178@example.com,2026-03-07T22:21:11Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Phoenix,AZ
+BLM-118921,BLM-CUST-000361,advait.miller361@example.com,2026-01-19T12:17:27Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Austin,TX
+BLM-106457,BLM-CUST-000469,hiro.iyer469@example.com,2026-04-13T13:26:33Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Denver,CO
+BLM-106103,BLM-CUST-000247,anika.moore247@example.com,2026-03-01T10:10:30Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Seattle,WA
+BLM-114297,BLM-CUST-000429,ling.chen429@example.com,2026-05-16T13:46:37Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Portland,OR
+BLM-106358,BLM-CUST-000451,isha.chen451@example.com,2026-03-14T11:34:13Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Boston,MA
+BLM-122207,BLM-CUST-000409,olivia.menon409@example.com,2026-03-14T09:23:29Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Houston,TX
+BLM-113876,BLM-CUST-000004,liam.iyer2@example.com,2026-01-07T13:21:03Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Boston,MA
+BLM-116542,BLM-CUST-000352,mateo.garcia352@example.com,2026-04-14T00:41:40Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Boston,MA
+BLM-116205,BLM-CUST-000037,hiro.li37@example.com,2026-03-02T18:12:01Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Columbus,OH
+BLM-124305,BLM-CUST-000256,ella.menon256@example.com,2026-03-08T06:18:50Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Columbus,OH
+BLM-106421,BLM-CUST-000155,mei.brown155@example.com,2026-01-08T16:20:03Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Austin,TX
+BLM-104912,BLM-CUST-000469,hiro.iyer469@example.com,2026-02-27T14:14:50Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Denver,CO
+BLM-121912,BLM-CUST-000311,arjun.wilson311@example.com,2026-06-17T23:04:30Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-118487,BLM-CUST-000039,isha.wilson39@example.com,2026-06-15T15:47:20Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Portland,OR
+BLM-114700,BLM-CUST-003320,anaya.miller3320@example.com,2026-02-27T19:05:25Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,N/A,USD,Phoenix,AZ
+BLM-117204,BLM-CUST-000434,hiro.wilson434@example.com,2026-01-26T02:35:07Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Dallas,TX
+BLM-119828,BLM-CUST-000101,noah.kim101@example.com,2026-05-02T00:00:26Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Houston,TX
+BLM-122827,BLM-CUST-000250,hiro.davis250@example.com,2026-05-23T16:07:29Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Raleigh,NC
+BLM-100751,BLM-CUST-000097,grace.li97@example.com,2026-02-02T06:36:33Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Austin,TX
+BLM-120864,BLM-CUST-000058,lucia.wilson58@example.com,2026-04-04T06:43:08Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Phoenix,AZ
+BLM-104750,BLM-CUST-000063,priya.chen63@example.com,2026-07-17T05:08:45Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-100844,BLM-CUST-000247,anika.moore247@example.com,2026-05-12T04:02:24Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,3,114.00,USD,Seattle,WA
+BLM-100568,BLM-CUST-000185,dhruv.bose185@example.com,2026-07-01T07:41:29Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Newark,NJ
+BLM-115338,BLM-CUST-000296,sara.liu296@example.com,2026-05-04T17:27:58Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,San Jose,CA
+BLM-113139,BLM-CUST-000394,diego.jones394@example.com,2026-07-23T20:07:09Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Columbus,OH
+BLM-121416,BLM-CUST-000335,james.patel335@example.com,2026-07-21T16:35:20Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Newark,NJ
+BLM-117799,BLM-CUST-000250,hiro.davis250@example.com,2026-07-20T21:34:34Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,2,18.00,USD,Raleigh,NC
+BLM-121083,BLM-CUST-000197,arjun.li197@example.com,2026-07-25T13:22:31Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Chicago,IL
+BLM-107008,BLM-CUST-000437,ishaan.chen437@example.com,2026-02-18T10:25:10Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Phoenix,AZ
+BLM-110862,BLM-CUST-000483,Riya.moore483@example.com,2026-06-25T06:15:31Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Raleigh,NC
+BLM-112914,BLM-CUST-000217,priya.liu217@example.com,2026-03-21T01:58:28Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Boston,MA
+BLM-115750,BLM-CUST-000215,henry.gupta215@example.com,2026-03-11T10:03:51Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-122535,BLM-CUST-000388,aarav.patel388@example.com,2026-02-10T08:26:22Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Austin,TX
+BLM-119883,BLM-CUST-000207,chloe.garcia207@example.com,2026-03-15T17:18:07Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Columbus,OH
+BLM-109891,BLM-CUST-000105,ava.davis105@example.com,2026-06-22T05:53:52Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Miami,FL
+BLM-106208,BLM-CUST-000452,emma.nair452@example.com,2026-01-10T17:02:31Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,San Jose,CA
+BLM-104655,BLM-CUST-000260,sophia.rao260@example.com,2026-03-21T08:32:15Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Dallas,TX
+BLM-101020,BLM-CUST-000083,leo.jones83@example.com,2026-07-05T02:39:26Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,2,18.00,USD,Columbus,OH
+BLM-102311,BLM-CUST-000100,maya.smith100@example.com,2026-07-12T15:13:22Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,2,40.00,USD,Portland,OR
+BLM-118745,BLM-CUST-000306,sophia.kim306@example.com,2026-08-24T20:22:09Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Houston,TX
+BLM-105786,BLM-CUST-000311,arjun.wilson311@example.com,2026-02-27T12:13:10Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Columbus,OH
+BLM-107324,BLM-CUST-000208,ishaan.sharma208@example.com,2026-08-11T12:29:39Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,3,114.00,USD,Phoenix,AZ
+BLM-123999,BLM-CUST-000048,maya.rao48@example.com,2026-02-11T04:49:05Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,3,72.00,USD,Atlanta,GA
+BLM-113605,BLM-CUST-000198,olivia.nguyen198@example.com,2026-08-05T06:07:37Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Austin,TX
+BLM-116926,BLM-CUST-000276,chen.moore276@example.com,2026-05-17T16:46:29Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Denver,CO
+BLM-106914,BLM-CUST-000360,wei.davis360@example.com,2026-08-16T20:52:07Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Dallas,TX
+BLM-124747,BLM-CUST-000411,isha.sato411@example.com,2026-08-11T21:42:26Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Atlanta,GA
+BLM-115688,BLM-CUST-000163,mia.sharma163@example.com,2026-03-04T12:42:38Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Boston,MA
+BLM-110017,BLM-CUST-000500,arjun.kapoor500@example.com,2026-02-09T02:34:50Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Houston,TX
+BLM-124886,BLM-CUST-000327,anika.rao327@example.com,2026-02-13T23:24:33Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Chicago,IL
+BLM-124618,BLM-CUST-000292,kabir.gupta292@example.com,2026-07-23T13:14:32Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Seattle,WA
+BLM-115306,BLM-CUST-000335,james.patel335@example.com,2026-05-04T10:10:06Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Newark,NJ
+BLM-100462,BLM-CUST-000453,yuki.tanaka453@example.com,2026-06-12T02:23:13Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Boston,MA
+BLM-112283,BLM-CUST-000061,diya.gupta61@example.com,2026-07-09T04:43:47Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Austin,TX
+BLM-107426,BLM-CUST-000200,arjun.tanaka200@example.com,2026-05-24T22:39:46Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-115568,BLM-CUST-000476,diya.jones476@example.com,2026-05-06T20:23:30Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Denver,CO
+BLM-120453,BLM-CUST-000197,arjun.li197@example.com,2026-02-16T01:54:53Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Chicago,IL
+BLM-112317,BLM-CUST-000321,owen.sharma321@example.com,2026-06-20T16:11:22Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Boston,MA
+BLM-107674,BLM-CUST-000200,arjun.tanaka200@example.com,2026-03-28T17:27:04Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,2,52.00,USD,Portland,OR
+BLM-119024,BLM-CUST-000406,liam.iyer406@example.com,2026-02-24T23:29:25Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Houston,TX
+BLM-110754,BLM-CUST-000375,reyansh.johnson375@example.com,2026-06-05T05:01:23Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Denver,CO
+BLM-109576,BLM-CUST-000206,noah.jones206@example.com,2026-01-09T07:20:09Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Chicago,IL
+BLM-122124,BLM-CUST-000171,kiara.bose171@example.com,2026-04-03T13:48:46Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Newark,NJ
+BLM-101258,BLM-CUST-000085,grace.sharma85@example.com,2026-04-25T02:05:12Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Seattle,WA
+BLM-112174,BLM-CUST-000301,owen.moore301@example.com,2026-07-21T17:17:00Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,3,48.00,USD,San Jose,CA
+BLM-118207,BLM-CUST-000410,ella.patel410@example.com,2026-01-08T10:11:34Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Austin,TX
+BLM-109951,BLM-CUST-000472,zara.liu472@example.com,2026-04-02T07:26:50Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Atlanta,GA
+BLM-115854,BLM-CUST-000148,Chen.li148@example.com,2026-06-05T08:43:28Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Austin,TX
+BLM-107960,BLM-CUST-000099,isha.nair99@example.com,2026-07-19T22:12:43Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Dallas,TX
+BLM-103685,BLM-CUST-000341,chloe.menon341@example.com,2026-08-02T10:56:56Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Newark,NJ
+BLM-121014,BLM-CUST-000494,ling.liu494@example.com,2026-06-17T11:38:00Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Miami,FL
+BLM-118946,BLM-CUST-000370,ethan.nair370@example.com,2026-05-04T19:55:18Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Denver,CO
+BLM-100683,BLM-CUST-000401,ava.chen401@example.com,2026-02-27T01:05:10Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Austin,TX
+BLM-114991,BLM-CUST-000124,hiro.sharma124@example.com,2026-01-09T05:55:31Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Newark,NJ
+BLM-113069,BLM-CUST-000266,Mia.garcia266@example.com,2026-01-17T10:31:38Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Portland,OR
+BLM-123982,BLM-CUST-000232,harper.park232@example.com,2026-01-17T06:20:10Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Chicago,IL
+BLM-114644,BLM-CUST-000212,yuki.chen212@example.com,2026-08-15T20:37:27Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,2,44.00,USD,Chicago,IL
+BLM-112639,BLM-CUST-000225,amelia.nguyen225@example.com,2026-03-25T05:57:03Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Columbus,OH
+BLM-104416,BLM-CUST-000284,maya.brown284@example.com,2026-05-17T22:39:05Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Raleigh,NC
+BLM-108875,BLM-CUST-000213,Kabir.garcia213@example.com,2026-07-04T11:30:21Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-112087,BLM-CUST-000319,yuki.bose319@example.com,2026-08-20T14:45:32Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-114714,BLM-CUST-000475,vihaan.wilson475@example.com,2026-01-17T17:20:42Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Chicago,IL
+BLM-120145,BLM-CUST-000475,vihaan.wilson475@example.com,2026-06-12T03:46:36Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Chicago,IL
+BLM-100385,BLM-CUST-000141,mason.johnson141@example.com,2026-03-14T22:02:33Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Raleigh,NC
+BLM-122726,BLM-CUST-000195,Mei.li195@example.com,2026-01-21T16:40:43Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Denver,CO
+BLM-121270,BLM-CUST-000339,anika.sharma339@example.com,2026-06-26T15:06:44Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,San Jose,CA
+BLM-112820,BLM-CUST-000476,diya.jones476@example.com,2026-04-26T13:26:07Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Denver,CO
+BLM-102670,BLM-CUST-000209,Priya.park209@example.com,2026-04-06T16:30:59Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,3,102.00,USD,Seattle,WA
+BLM-118547,BLM-CUST-000439,ethan.nguyen439@example.com,2026-05-16T05:27:39Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,San Jose,CA
+BLM-116330,BLM-CUST-000465,lucia.johnson465@example.com,2026-05-24T18:50:12Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Houston,TX
+BLM-107431,BLM-CUST-000253,diego.rao253@example.com,2026-05-12T06:28:42Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,2,18.00,USD,Columbus,OH
+BLM-123297,BLM-CUST-000464,mateo.gupta464@example.com,2026-05-25T19:27:58Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Austin,TX
+BLM-118413,BLM-CUST-000408,Mia.patel408@example.com,2026-03-10T07:01:27Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Columbus,OH
+BLM-109396,BLM-CUST-000005,ling.zhang5@example.com,2026-07-02T10:47:01Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Newark,NJ
+BLM-107809,BLM-CUST-000174,vivaan.moore174@example.com,2026-01-08T12:19:25Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Newark,NJ
+BLM-111002,BLM-CUST-000196,Anika.park196@example.com,2026-07-14T07:59:14Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Dallas,TX
+BLM-106353,BLM-CUST-000241,anika.moore241@example.com,2026-01-06T08:06:55Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Miami,FL
+BLM-116905,BLM-CUST-000129,priya.bose129@example.com,2026-03-02T09:03:54Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Seattle,WA
+BLM-107491,BLM-CUST-000468,mia.park468@example.com,2026-05-19T17:59:03Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Houston,TX
+BLM-117075,BLM-CUST-000217,priya.liu217@example.com,2026-05-11T22:42:42Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Boston,MA
+BLM-123261,BLM-CUST-000452,emma.nair452@example.com,2026-05-13T11:27:29Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,San Jose,CA
+BLM-116633,BLM-CUST-000060,leo.davis60@example.com,2026-05-15T18:58:55Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Portland,OR
+BLM-111247,BLM-CUST-000376,owen.moore376@example.com,2026-06-04T08:29:55Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Denver,CO
+BLM-108642,BLM-CUST-000152,mei.park152@example.com,2026-02-28T07:46:23Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,2,32.00,USD,Columbus,OH
+BLM-114861,BLM-CUST-000135,anaya.liu135@example.com,2026-02-26T06:55:56Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Houston,TX
+BLM-118957,BLM-CUST-000306,sophia.kim306@example.com,2026-07-13T00:03:12Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-111648,BLM-CUST-000336,aarav.jones336@example.com,2026-02-09T01:10:31Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Columbus,OH
+BLM-115722,BLM-CUST-000410,ella.patel410@example.com,2026-07-03T05:55:42Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Austin,TX
+BLM-106884,BLM-CUST-000191,Ishaan.zhang191@example.com,2026-01-23T11:53:34Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,2,48.00,USD,Raleigh,NC
+BLM-107233,BLM-CUST-000072,diego.liu72@example.com,2026-02-26T14:00:28Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Houston,TX
+BLM-116566,BLM-CUST-000394,diego.jones394@example.com,2026-05-08T22:54:19Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Columbus,OH
+BLM-103704,BLM-CUST-000162,priya.wilson162@example.com,2026-05-28T00:41:05Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Portland,OR
+BLM-110814,BLM-CUST-000021,aarav.sharma21@example.com,2026-06-05T15:23:32Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Atlanta,GA
+BLM-101511,BLM-CUST-000458,wei.nguyen421@example.com,2026-02-20T07:06:07Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Portland,OR
+BLM-120856,BLM-CUST-000294,diya.rao294@example.com,2026-02-09T17:00:11Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Dallas,TX
+BLM-108816,BLM-CUST-000038,vivaan.smith38@example.com,2026-05-05T16:22:18Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Houston,TX
+BLM-109608,BLM-CUST-000111,priya.chen111@example.com,2026-08-25T07:07:29Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Raleigh,NC
+BLM-120974,BLM-CUST-000038,vivaan.smith38@example.com,2026-08-10T12:48:40Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Houston,TX
+BLM-118520,BLM-CUST-000232,harper.park232@example.com,2026-03-03T18:23:49Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Chicago,IL
+BLM-106465,BLM-CUST-000053,mateo.smith53@example.com,2026-04-10T06:48:20Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Austin,TX
+BLM-124408,BLM-CUST-000039,isha.wilson39@example.com,2026-02-21T13:43:49Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,2,52.00,USD,Portland,OR
+BLM-104469,BLM-CUST-000050,advait.reddy50@example.com,2026-04-27T06:35:16Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Miami,FL
+BLM-114712,BLM-CUST-000301,owen.moore301@example.com,2026-06-24T21:46:43Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,San Jose,CA
+BLM-114170,BLM-CUST-000037,hiro.li37@example.com,2026-07-11T10:24:11Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Columbus,OH
+BLM-113423,BLM-CUST-000158,James.wang158@example.com,2026-07-24T15:39:15Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Dallas,TX
+BLM-111664,BLM-CUST-000490,kiara.reddy490@example.com,2026-07-05T04:58:19Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Portland,OR
+BLM-106382,BLM-CUST-000316,ella.liu316@example.com,2026-01-24T02:51:53Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Dallas,TX
+BLM-107086,BLM-CUST-000478,dhruv.menon288@example.com,2026-08-07T08:40:35Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Columbus,OH
+BLM-121436,BLM-CUST-000125,Amelia.nguyen125@example.com,2026-07-18T12:49:21Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Miami,FL
+BLM-110812,BLM-CUST-000013,Sofia.nguyen13@example.com,2026-08-22T08:02:59Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,2,84.00,USD,Phoenix,AZ
+BLM-101021,BLM-CUST-000351,lucia.miller351@example.com,2026-01-02T18:17:13Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Dallas,TX
+BLM-120181,BLM-CUST-000106,sophia.reddy106@example.com,2026-03-18T14:37:17Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Dallas,TX
+BLM-117177,BLM-CUST-000285,diya.garcia285@example.com,2026-05-13T22:44:31Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Miami,FL
+BLM-112467,BLM-CUST-000166,yuki.menon166@example.com,2026-08-15T01:17:06Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Houston,TX
+BLM-104080,BLM-CUST-000073,chloe.nair73@example.com,2026-01-18T11:17:25Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,3,27.00,USD,Miami,FL
+BLM-122846,BLM-CUST-000477,noah.liu477@example.com,2026-07-09T12:39:41Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Miami,FL
+BLM-102270,BLM-CUST-000019,arjun.liu19@example.com,2026-01-10T08:54:48Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Houston,TX
+BLM-116689,BLM-CUST-000350,amelia.johnson350@example.com,2026-02-15T05:47:58Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Chicago,IL
+BLM-117935,BLM-CUST-000054,anaya.reddy54@example.com,2026-02-27T18:29:55Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Austin,TX
+BLM-103758,BLM-CUST-000148,Chen.li148@example.com,2026-07-17T08:05:39Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,2,76.00,USD,Austin,TX
+BLM-120606,BLM-CUST-000499,grace.sharma499@example.com,2026-04-20T20:22:48Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Phoenix,AZ
+BLM-124825,BLM-CUST-000316,ella.liu316@example.com,2026-04-10T04:09:46Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Dallas,TX
+BLM-113802,BLM-CUST-000201,harper.brown201@example.com,2026-04-26T06:01:20Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Raleigh,NC
+BLM-106922,BLM-CUST-000024,vihaan.jones24@example.com,2026-04-23T02:23:06Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Seattle,WA
+BLM-88412,BLM-CUST-004217,priya.sharma@example.com,2026-08-18T19:52:47Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Dallas,TX
+BLM-118876,BLM-CUST-000173,diego.kapoor173@example.com,2026-04-27T05:19:40Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,2,32.00,USD,Chicago,IL
+BLM-123789,BLM-CUST-000154,hiro.davis154@example.com,2026-03-12T05:38:15Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Miami,FL
+BLM-108067,BLM-CUST-000109,ethan.nair109@example.com,2026-06-17T02:58:02Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Portland,OR
+BLM-108071,BLM-CUST-000235,ava.liu235@example.com,2026-07-15T22:35:49Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Portland,OR
+BLM-121537,BLM-CUST-000199,chloe.sato199@example.com,2026-07-08T16:49:07Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Dallas,TX
+BLM-111891,BLM-CUST-000270,sara.nair270@example.com,2026-08-01T16:49:59Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Miami,FL
+BLM-120816,BLM-CUST-000298,liam.wilson298@example.com,2026-07-04T09:28:58Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Raleigh,NC
+BLM-108422,BLM-CUST-000463,noah.rao463@example.com,2026-01-10T22:07:52Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Newark,NJ
+BLM-118258,BLM-CUST-000163,mia.sharma163@example.com,2026-05-11T17:04:00Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Boston,MA
+BLM-124084,BLM-CUST-000354,dhruv.iyer354@example.com,2026-07-08T02:46:43Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Raleigh,NC
+BLM-112359,BLM-CUST-000136,kabir.patel136@example.com,2026-02-18T20:25:43Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Seattle,WA
+BLM-123431,BLM-CUST-000038,vivaan.smith38@example.com,2026-01-13T14:42:54Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Houston,TX
+BLM-117618,BLM-CUST-000235,ava.liu235@example.com,2026-08-16T11:29:43Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,2,76.00,USD,Portland,OR
+BLM-116610,BLM-CUST-000113,Noah.nair113@example.com,2026-01-04T14:43:54Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,3,72.00,USD,Miami,FL
+BLM-119156,BLM-CUST-000312,lucia.patel312@example.com,2026-03-13T20:26:33Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Portland,OR
+BLM-111604,BLM-CUST-000266,Mia.garcia266@example.com,2026-07-12T02:44:31Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,2,18.00,USD,Portland,OR
+BLM-106595,BLM-CUST-000359,kiara.iyer359@example.com,2026-03-15T04:24:39Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,San Jose,CA
+BLM-116646,BLM-CUST-004217,James.miller4217@example.com,2026-01-06T13:41:41Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-107415,BLM-CUST-000387,mateo.menon387@example.com,2026-04-27T02:19:14Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,2,44.00,USD,Chicago,IL
+BLM-105860,BLM-CUST-000286,Dhruv.garcia286@example.com,2026-03-15T05:47:14Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,2,32.00,USD,Austin,TX
+BLM-108479,BLM-CUST-000209,Priya.park209@example.com,2026-08-04T03:23:33Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Seattle,WA
+BLM-101228,BLM-CUST-000149,liam.johnson149@example.com,2026-02-12T13:45:36Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-100408,BLM-CUST-000330,aditya.moore330@example.com,2026-08-20T06:41:45Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,San Jose,CA
+BLM-115319,BLM-CUST-000363,mia.nair363@example.com,2026-07-26T01:13:47Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Boston,MA
+BLM-107823,BLM-CUST-000155,mei.brown155@example.com,2026-01-25T02:39:57Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Austin,TX
+BLM-110540,BLM-CUST-000285,diya.garcia285@example.com,2026-08-27T12:24:11Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Miami,FL
+BLM-111840,BLM-CUST-000454,vihaan.liu454@example.com,2026-08-28T15:43:36Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Seattle,WA
+BLM-106905,BLM-CUST-000164,mia.garcia164@example.com,2026-04-02T22:34:06Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Denver,CO
+BLM-100853,BLM-CUST-000372,olivia.sato372@example.com,2026-06-27T15:46:16Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,San Jose,CA
+BLM-103678,BLM-CUST-000472,zara.liu472@example.com,2026-05-08T09:09:59Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Atlanta,GA
+BLM-114101,BLM-CUST-000205,maya.moore205@example.com,2026-02-13T10:17:53Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,2,44.00,USD,Denver,CO
+BLM-100593,BLM-CUST-000224,mason.nair224@example.com,2026-02-02T01:45:31Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Columbus,OH
+BLM-118781,BLM-CUST-000289,Liam.wilson289@example.com,2026-05-05T03:24:37Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Boston,MA
+BLM-119851,BLM-CUST-000371,reyansh.brown371@example.com,2026-07-21T09:09:13Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,2,40.00,USD,Seattle,WA
+BLM-117739,BLM-CUST-000108,ishaan.rao108@example.com,2026-05-03T19:45:40Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Miami,FL
+BLM-121597,BLM-CUST-000281,maya.jones281@example.com,2026-06-19T01:33:56Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Portland,OR
+BLM-113887,BLM-CUST-000107,ella.wilson107@example.com,2026-04-25T07:25:57Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,3,66.00,USD,Chicago,IL
+BLM-114307,BLM-CUST-000278,anaya.gupta278@example.com,2026-08-13T21:47:53Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,3,78.00,USD,San Jose,CA
+BLM-122140,BLM-CUST-000180,diya.zhang180@example.com,2026-05-06T22:37:28Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Atlanta,GA
+BLM-108802,BLM-CUST-000248,ling.davis248@example.com,2026-06-06T18:49:20Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,San Jose,CA
+BLM-122590,BLM-CUST-000092,grace.reddy92@example.com,2026-03-09T11:12:14Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,San Jose,CA
+BLM-107580,BLM-CUST-000430,aditya.garcia430@example.com,2026-05-26T03:13:33Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Phoenix,AZ
+BLM-110881,BLM-CUST-000149,liam.johnson149@example.com,2026-05-01T00:01:00Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Columbus,OH
+BLM-100253,BLM-CUST-000473,dhruv.miller473@example.com,2026-01-03T10:24:24Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,2,84.00,USD,Houston,TX
+BLM-103536,BLM-CUST-000043,mia.nguyen43@example.com,2026-01-17T12:37:00Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Phoenix,AZ
+BLM-103959,BLM-CUST-000020,henry.park20@example.com,2026-08-09T05:26:46Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Denver,CO
+BLM-113573,BLM-CUST-000052,ava.wang15@example.com,2026-03-20T19:31:50Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Austin,TX
+BLM-107028,BLM-CUST-000044,mia.smith44@example.com,2026-03-27T05:31:33Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,2,40.00,USD,Columbus,OH
+BLM-109824,BLM-CUST-000101,noah.kim101@example.com,2026-04-12T02:12:39Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-112907,BLM-CUST-000359,kiara.iyer359@example.com,2026-03-01T21:39:43Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,San Jose,CA
+BLM-115628,BLM-CUST-000109,ethan.nair109@example.com,2026-03-15T03:52:31Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Portland,OR
+BLM-107932,BLM-CUST-000376,owen.moore376@example.com,2026-02-22T19:26:05Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Denver,CO
+BLM-107144,BLM-CUST-000474,riya.johnson474@example.com,2026-06-14T15:36:16Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Portland,OR
+BLM-110555,BLM-CUST-000196,Anika.park196@example.com,2026-03-24T13:06:27Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Dallas,TX
+BLM-117955,BLM-CUST-000141,mason.johnson141@example.com,2026-02-22T07:36:55Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Raleigh,NC
+BLM-109538,BLM-CUST-000222,liam.sharma222@example.com,2026-03-08T07:04:22Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Chicago,IL
+BLM-113392,BLM-CUST-000282,liam.tanaka282@example.com,2026-05-26T18:06:57Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Phoenix,AZ
+BLM-106392,BLM-CUST-000069,liam.wilson69@example.com,2026-03-08T05:08:38Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Dallas,TX
+BLM-115026,BLM-CUST-000070,anaya.miller70@example.com,2026-01-17T07:57:14Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Houston,TX
+BLM-121826,BLM-CUST-000078,arjun.park78@example.com,2026-07-15T11:58:41Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Denver,CO
+BLM-102964,BLM-CUST-000225,amelia.nguyen225@example.com,2026-04-15T22:55:36Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Columbus,OH
+BLM-105578,BLM-CUST-000400,benjamin.wilson400@example.com,2026-03-11T19:57:26Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,3,72.00,USD,Raleigh,NC
+BLM-119769,BLM-CUST-000365,owen.garcia365@example.com,2026-05-10T16:10:57Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,3,126.00,USD,Raleigh,NC
+BLM-109255,BLM-CUST-000144,olivia.davis144@example.com,2026-05-03T20:23:16Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Dallas,TX
+BLM-122487,BLM-CUST-000168,dhruv.smith168@example.com,2026-02-06T08:04:14Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Atlanta,GA
+BLM-113877,BLM-CUST-000449,vivaan.patel449@example.com,2026-08-03T02:50:28Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Houston,TX
+BLM-122130,BLM-CUST-000155,mei.brown155@example.com,2026-01-21T11:06:36Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Austin,TX
+BLM-104200,BLM-CUST-007840,chen.moore7840@example.com,,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Portland,OR
+BLM-112018,BLM-CUST-000128,olivia.moore128@example.com,2026-07-07T12:23:02Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Raleigh,NC
+BLM-114554,BLM-CUST-000237,Diya.bose237@example.com,2026-06-23T17:23:21Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Phoenix,AZ
+BLM-103662,BLM-CUST-000180,diya.zhang180@example.com,2026-05-02T06:39:33Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Atlanta,GA
+BLM-111560,BLM-CUST-000298,liam.wilson298@example.com,2026-04-05T20:42:38Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Raleigh,NC
+BLM-104710,BLM-CUST-000155,mei.brown155@example.com,2026-08-24T13:38:10Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Austin,TX
+BLM-109603,BLM-CUST-000111,priya.chen111@example.com,2026-04-11T04:47:28Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Raleigh,NC
+BLM-116745,BLM-CUST-000283,sofia.johnson283@example.com,2026-06-03T06:02:45Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-115920,BLM-CUST-000276,chen.moore276@example.com,2026-03-07T17:06:53Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,2,32.00,USD,Denver,CO
+BLM-114290,BLM-CUST-000249,Yuki.brown249@example.com,2026-06-15T02:44:25Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Miami,FL
+BLM-114420,BLM-CUST-000006,Noah.reddy6@example.com,2026-06-06T08:03:48Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Raleigh,NC
+BLM-104128,BLM-CUST-000365,owen.garcia365@example.com,2026-01-25T19:12:10Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Raleigh,NC
+BLM-110619,BLM-CUST-000432,riya.li432@example.com,2026-05-09T17:14:35Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,San Jose,CA
+BLM-124513,BLM-CUST-000486,vihaan.nguyen486@example.com,2026-01-21T22:20:46Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Seattle,WA
+BLM-100249,BLM-CUST-000170,wei.williams170@example.com,2026-05-19T22:24:27Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Atlanta,GA
+BLM-121993,BLM-CUST-000496,Ethan.sato496@example.com,2026-03-02T05:19:34Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Austin,TX
+BLM-108610,BLM-CUST-000327,anika.rao327@example.com,2026-02-16T03:27:38Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Chicago,IL
+BLM-114058,BLM-CUST-000401,ava.chen401@example.com,2026-07-08T04:00:02Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Austin,TX
+BLM-104758,BLM-CUST-000131,reyansh.williams131@example.com,2026-05-13T00:11:07Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Columbus,OH
+BLM-122992,BLM-CUST-000150,aditya.park150@example.com,2026-02-06T07:57:47Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Newark,NJ
+BLM-121747,BLM-CUST-000159,chloe.bose159@example.com,2026-07-27T22:19:44Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Portland,OR
+BLM-103831,BLM-CUST-000300,vihaan.kapoor300@example.com,2026-06-24T07:52:59Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-116188,BLM-CUST-000274,owen.williams274@example.com,2026-06-03T17:58:19Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Austin,TX
+BLM-102190,BLM-CUST-000193,ava.nguyen193@example.com,2026-02-13T03:13:15Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Houston,TX
+BLM-116811,BLM-CUST-000087,Dhruv.nair87@example.com,2026-07-08T12:02:01Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,San Jose,CA
+BLM-108073,BLM-CUST-000199,chloe.sato199@example.com,2026-02-20T01:36:39Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Dallas,TX
+BLM-117700,BLM-CUST-000441,owen.sharma441@example.com,2026-06-11T22:19:33Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Columbus,OH
+BLM-115891,BLM-CUST-000081,hiro.rao81@example.com,2026-01-16T09:25:28Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Miami,FL
+BLM-109361,BLM-CUST-000311,arjun.wilson311@example.com,2026-01-15T21:29:19Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Columbus,OH
+BLM-121144,BLM-CUST-000142,emma.iyer93@example.com,2026-03-11T13:31:21Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Boston,MA
+BLM-111349,BLM-CUST-000248,ling.davis248@example.com,2026-07-26T16:42:13Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,San Jose,CA
+BLM-112203,BLM-CUST-000299,riya.garcia299@example.com,2026-03-11T06:46:05Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Phoenix,AZ
+BLM-119300,,,2026-02-11T09:26:00Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Denver,CO
+BLM-123249,BLM-CUST-000149,liam.johnson149@example.com,2026-08-06T22:20:32Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Columbus,OH
+BLM-124083,BLM-CUST-000396,maya.rao396@example.com,2026-05-28T10:21:20Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,3,126.00,USD,Atlanta,GA
+BLM-101942,BLM-CUST-000167,ling.moore167@example.com,2026-04-11T18:57:29Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,3,114.00,USD,Boston,MA
+BLM-114342,BLM-CUST-000415,Riya.chen415@example.com,2026-05-06T17:56:59Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Boston,MA
+BLM-111377,BLM-CUST-000321,owen.sharma321@example.com,2026-03-05T08:03:00Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Boston,MA
+BLM-105348,BLM-CUST-000146,amelia.moore146@example.com,2026-05-26T07:44:17Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,3,48.00,USD,Austin,TX
+BLM-119216,BLM-CUST-000119,diego.williams119@example.com,2026-04-15T00:21:56Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Houston,TX
+BLM-105776,BLM-CUST-000377,Riya.rao377@example.com,2026-03-28T06:59:21Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Phoenix,AZ
+BLM-112267,BLM-CUST-000230,diya.smith230@example.com,2026-08-09T08:25:30Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Austin,TX
+BLM-106046,BLM-CUST-000087,Dhruv.nair87@example.com,2026-05-21T23:22:53Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,San Jose,CA
+BLM-120380,BLM-CUST-000143,anika.williams143@example.com,2026-05-04T18:37:37Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Newark,NJ
+BLM-120766,BLM-CUST-000070,anaya.miller70@example.com,2026-04-24T18:43:09Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Houston,TX
+BLM-124801,BLM-CUST-000146,amelia.moore146@example.com,2026-04-20T10:37:40Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Austin,TX
+BLM-110669,BLM-CUST-000454,vihaan.liu454@example.com,2026-05-23T10:50:44Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Seattle,WA
+BLM-119943,BLM-CUST-000469,hiro.iyer469@example.com,2026-03-05T02:00:33Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Denver,CO
+BLM-114964,BLM-CUST-000314,yuki.bose314@example.com,2026-06-19T08:40:46Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Newark,NJ
+BLM-119225,BLM-CUST-000474,riya.johnson474@example.com,2026-03-05T11:50:13Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Portland,OR
+BLM-108675,BLM-CUST-000349,mateo.tanaka349@example.com,2026-01-17T11:02:34Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Columbus,OH
+BLM-112121,BLM-CUST-000355,riya.liu355@example.com,2026-07-21T14:36:10Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,San Jose,CA
+BLM-101379,BLM-CUST-000289,Liam.wilson289@example.com,2026-03-04T10:18:30Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Boston,MA
+BLM-102535,BLM-CUST-000253,diego.rao253@example.com,2026-01-19T15:34:10Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,2,44.00,USD,Columbus,OH
+BLM-121819,BLM-CUST-000127,kabir.tanaka127@example.com,2026-06-18T05:53:08Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,2,18.00,USD,Portland,OR
+BLM-113001,BLM-CUST-000095,ishaan.sharma95@example.com,2026-05-24T16:33:56Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,3,66.00,USD,Miami,FL
+BLM-107217,BLM-CUST-000363,mia.nair363@example.com,2026-07-24T04:26:00Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,2,44.00,USD,Boston,MA
+BLM-123723,BLM-CUST-000084,Riya.johnson84@example.com,2026-08-13T06:22:08Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,3,66.00,USD,Columbus,OH
+BLM-105273,BLM-CUST-000073,chloe.nair73@example.com,2026-04-01T12:06:18Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,3,102.00,USD,Miami,FL
+BLM-115991,BLM-CUST-000181,sofia.moore181@example.com,2026-03-27T00:45:10Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Seattle,WA
+BLM-105104,BLM-CUST-000187,ethan.liu187@example.com,2026-04-12T17:01:57Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-118115,BLM-CUST-000073,chloe.nair73@example.com,2026-08-04T00:26:12Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Miami,FL
+BLM-106792,BLM-CUST-000205,maya.moore205@example.com,2026-08-18T06:40:38Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Denver,CO
+BLM-101961,BLM-CUST-000111,priya.chen111@example.com,2026-02-17T22:58:26Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Raleigh,NC
+BLM-104007,BLM-CUST-000232,harper.park232@example.com,2026-08-14T08:15:11Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Chicago,IL
+BLM-105707,BLM-CUST-000471,vihaan.brown471@example.com,2026-05-26T14:40:19Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Austin,TX
+BLM-104385,BLM-CUST-000431,henry.garcia431@example.com,2026-06-01T22:13:23Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,2,40.00,USD,Phoenix,AZ
+BLM-119752,BLM-CUST-000400,benjamin.wilson400@example.com,2026-02-14T11:43:36Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Raleigh,NC
+BLM-121238,BLM-CUST-000404,reyansh.kapoor404@example.com,2026-06-01T06:00:11Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,2,52.00,USD,Dallas,TX
+BLM-111869,BLM-CUST-000387,mateo.menon387@example.com,2026-07-26T12:40:57Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Chicago,IL
+BLM-121546,BLM-CUST-000309,wei.brown309@example.com,2026-03-20T00:38:10Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Raleigh,NC
+BLM-121380,BLM-CUST-000458,wei.nguyen421@example.com,2026-05-07T13:17:44Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Portland,OR
+BLM-103517,BLM-CUST-000179,sophia.rao179@example.com,2026-05-02T22:33:19Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Portland,OR
+BLM-121157,BLM-CUST-000417,reyansh.reddy417@example.com,2026-07-23T09:06:05Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Dallas,TX
+BLM-108448,BLM-CUST-000373,Arjun.chen373@example.com,2026-06-26T06:41:37Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Seattle,WA
+BLM-115715,BLM-CUST-000238,olivia.williams238@example.com,2026-03-10T23:46:44Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Houston,TX
+BLM-101758,BLM-CUST-000495,benjamin.wilson495@example.com,2026-08-20T04:35:53Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Seattle,WA
+BLM-108577,BLM-CUST-000387,mateo.menon387@example.com,2026-03-18T13:38:57Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Chicago,IL
+BLM-106901,BLM-CUST-000357,Benjamin.sharma357@example.com,2026-03-12T11:35:51Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Denver,CO
+BLM-106991,BLM-CUST-000423,ella.davis423@example.com,2026-01-22T13:32:42Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,3,27.00,USD,Boston,MA
+BLM-100547,BLM-CUST-000364,leo.brown364@example.com,2026-08-11T17:50:47Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Miami,FL
+BLM-120322,BLM-CUST-000283,sofia.johnson283@example.com,2026-02-12T20:08:44Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Houston,TX
+BLM-110045,BLM-CUST-000167,ling.moore167@example.com,2026-08-05T09:08:36Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Boston,MA
+BLM-117184,BLM-CUST-000020,henry.park20@example.com,2026-04-07T00:43:34Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Denver,CO
+BLM-111741,BLM-CUST-000075,harper.zhang75@example.com,2026-05-13T17:16:52Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,3,102.00,USD,Denver,CO
+BLM-109100,BLM-CUST-008686,owen.jones8686@example.com,2026/13/45 25:99,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Portland,OR
+BLM-103617,BLM-CUST-000201,harper.brown201@example.com,2026-02-11T19:00:59Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Raleigh,NC
+BLM-117217,BLM-CUST-000488,liam.park488@example.com,2026-03-07T16:41:37Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Seattle,WA
+BLM-108553,BLM-CUST-000185,dhruv.bose185@example.com,2026-01-13T16:40:41Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,2,56.00,USD,Newark,NJ
+BLM-115643,BLM-CUST-000390,anika.wilson390@example.com,2026-01-23T07:51:57Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Boston,MA
+BLM-119031,BLM-CUST-000122,ishaan.li122@example.com,2026-06-13T02:59:34Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Newark,NJ
+BLM-101384,BLM-CUST-000041,Lucas.liu41@example.com,2026-01-25T23:06:23Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Raleigh,NC
+BLM-124300,BLM-CUST-000226,mia.kapoor226@example.com,2026-02-28T05:12:49Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Denver,CO
+BLM-117039,BLM-CUST-000386,Maya.menon386@example.com,2026-07-06T14:25:35Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Portland,OR
+BLM-104478,BLM-CUST-000207,chloe.garcia207@example.com,2026-04-21T08:12:49Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Columbus,OH
+BLM-100111,BLM-CUST-000261,Leo.sato261@example.com,2026-02-02T22:49:08Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Atlanta,GA
+BLM-107778,BLM-CUST-000311,arjun.wilson311@example.com,2026-02-04T14:52:21Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Columbus,OH
+BLM-102149,BLM-CUST-000229,ethan.garcia229@example.com,2026-06-18T06:36:22Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Houston,TX
+BLM-106005,BLM-CUST-000456,diya.menon456@example.com,2026-08-14T18:16:45Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Raleigh,NC
+BLM-123800,BLM-CUST-002028,emma.johnson2028@example.com,2026-02-20T02:33:38Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,-20.00,USD,Raleigh,NC
+BLM-106879,BLM-CUST-000168,dhruv.smith168@example.com,2026-02-01T00:41:47Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Atlanta,GA
+BLM-117981,BLM-CUST-000033,james.tanaka33@example.com,2026-08-26T05:07:20Z,BLM-SER-RET-30,Retinol Night Serum 30 ml,1,42.00,USD,Atlanta,GA
+BLM-102154,BLM-CUST-000351,lucia.miller351@example.com,2026-03-20T15:08:43Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Dallas,TX
+BLM-104140,BLM-CUST-000286,Dhruv.garcia286@example.com,2026-02-24T10:25:47Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Austin,TX
+BLM-122228,BLM-CUST-000349,mateo.tanaka349@example.com,2026-05-13T23:36:55Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Columbus,OH
+BLM-100120,BLM-CUST-000114,hiro.smith114@example.com,2026-03-23T23:11:25Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Columbus,OH
+BLM-108018,BLM-CUST-000479,ava.zhang479@example.com,2026-02-22T05:10:11Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Dallas,TX
+BLM-114218,BLM-CUST-000213,Kabir.garcia213@example.com,2026-07-22T17:13:25Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Portland,OR
+BLM-106689,BLM-CUST-000126,anaya.moore126@example.com,2026-03-14T11:05:14Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Houston,TX
+BLM-117333,BLM-CUST-000002,liam.iyer2@example.com,2026-04-28T04:51:45Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Boston,MA
+BLM-103943,BLM-CUST-000406,liam.iyer406@example.com,2026-02-11T23:33:10Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Houston,TX
+BLM-117111,BLM-CUST-000339,anika.sharma339@example.com,2026-07-06T04:06:51Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,San Jose,CA
+BLM-100488,BLM-CUST-000116,hiro.kim116@example.com,2026-08-03T12:20:43Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Miami,FL
+BLM-111054,BLM-CUST-000433,maya.davis433@example.com,2026-08-16T09:00:09Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Denver,CO
+BLM-104455,BLM-CUST-000415,Riya.chen415@example.com,2026-06-28T13:55:27Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Boston,MA
+BLM-111504,BLM-CUST-000136,kabir.patel136@example.com,2026-04-17T15:32:27Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Seattle,WA
+BLM-121262,BLM-CUST-000341,chloe.menon341@example.com,2026-02-16T13:41:29Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Newark,NJ
+BLM-122062,BLM-CUST-000160,Ling.wilson160@example.com,2026-03-04T06:10:39Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Austin,TX
+BLM-118805,BLM-CUST-000333,wei.tanaka333@example.com,2026-04-16T06:52:25Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Austin,TX
+BLM-122393,BLM-CUST-000374,Grace.wang374@example.com,2026-07-12T12:52:40Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Houston,TX
+BLM-116715,BLM-CUST-000311,arjun.wilson311@example.com,2026-07-12T20:43:14Z,BLM-SUP-COLL-30,Collagen Boost Sachets 30 ct,1,38.00,USD,Columbus,OH
+BLM-114905,BLM-CUST-000332,riya.sharma332@example.com,2026-03-26T00:45:45Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Dallas,TX
+BLM-116659,BLM-CUST-000347,harper.rao347@example.com,2026-08-03T08:59:24Z,BLM-MOIST-HYA-50,Hyaluronic Moisturiser 50 ml,1,20.00,USD,Atlanta,GA
+BLM-109682,BLM-CUST-000300,vihaan.kapoor300@example.com,2026-08-27T19:21:19Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Columbus,OH
+BLM-113404,BLM-CUST-000423,ella.davis423@example.com,2026-01-27T17:31:15Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,1,24.00,USD,Boston,MA
+BLM-112699,BLM-CUST-000091,diya.wilson91@example.com,2026-03-07T22:51:32Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,San Jose,CA
+BLM-120722,BLM-CUST-000269,maya.gupta269@example.com,2026-08-21T07:53:19Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,1,22.00,USD,Miami,FL
+BLM-108174,BLM-CUST-000265,Mateo.zhang265@example.com,2026-03-02T22:05:25Z,BLM-LIP-BALM-08,Repair Lip Balm 8 ml,1,9.00,USD,Raleigh,NC
+BLM-112583,BLM-CUST-000276,chen.moore276@example.com,2026-03-09T20:01:59Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Denver,CO
+BLM-117450,BLM-CUST-000312,lucia.patel312@example.com,2026-02-10T07:14:52Z,BLM-SUP-MULTI-90,Daily Multivitamin 90 ct,2,44.00,USD,Portland,OR
+BLM-100092,BLM-CUST-000434,hiro.wilson434@example.com,2026-08-08T01:32:44Z,BLM-SER-VITC-30,Vitamin C Serum 30 ml,1,34.00,USD,Dallas,TX
+BLM-117267,BLM-CUST-000021,aarav.sharma21@example.com,2026-01-07T02:08:47Z,BLM-SUP-OMG3-60,Omega-3 Wellness Capsules 60 ct,1,28.00,USD,Atlanta,GA
+BLM-107559,BLM-CUST-000076,ling.williams76@example.com,2026-03-20T04:22:41Z,BLM-SPF-MIN-50,Mineral Sunscreen SPF50 50 ml,1,26.00,USD,Atlanta,GA
+BLM-118343,BLM-CUST-000183,anaya.bose183@example.com,2026-06-06T05:07:21Z,BLM-CLN-GEL-150,Gentle Foaming Cleanser 150 ml,1,16.00,USD,Atlanta,GA
+BLM-112621,BLM-CUST-000221,amelia.smith221@example.com,2026-01-16T07:27:27Z,BLM-MSK-CLAY-100,Purifying Clay Mask 100 ml,3,72.00,USD,Portland,OR

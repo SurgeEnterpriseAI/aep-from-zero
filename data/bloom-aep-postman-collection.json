@@ -1,0 +1,77 @@
+{
+  "info": {
+    "name": "Bloom - AEP From Zero (read-only practice)",
+    "description": "Practice collection for episode 14 of AEP From Zero. It holds two READ requests only: the Profile Access API, one person by identity value and namespace. There are no secrets in this file. Fill the four placeholders (ACCESS_TOKEN, API_KEY, IMS_ORG, SANDBOX_NAME) with your own DEVELOPMENT values in Postman's collection variables, never in a shared file. Read the sandbox name aloud before every send. PROFILE_API_BASE is the base path Adobe documents for the Real-Time Customer Profile API; if a request returns 404, check Adobe's API reference on Experience League. Bloom is a fictional brand.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Safety net for practice: read requests only, and never without a sandbox name.",
+          "const sandbox = (pm.variables.get('SANDBOX_NAME') || '').trim();",
+          "if (!sandbox) { throw new Error('Fill SANDBOX_NAME with your own development sandbox name first.'); }",
+          "if (sandbox.toLowerCase() === 'prod') { throw new Error('This practice collection must never point at production.'); }",
+          "if (pm.request.method !== 'GET') { throw new Error('This practice collection sends read requests only.'); }"
+        ]
+      }
+    }
+  ],
+  "item": [
+    {
+      "name": "1. Profile Access API - one person by email",
+      "request": {
+        "method": "GET",
+        "header": [
+          {"key": "Authorization", "value": "Bearer {{ACCESS_TOKEN}}"},
+          {"key": "x-api-key", "value": "{{API_KEY}}"},
+          {"key": "x-gw-ims-org-id", "value": "{{IMS_ORG}}"},
+          {"key": "x-sandbox-name", "value": "{{SANDBOX_NAME}}"}
+        ],
+        "url": {
+          "raw": "{{PROFILE_API_BASE}}/access/entities?schema.name=_xdm.context.profile&entityId=your.test.profile@example.com&entityIdNS=email",
+          "host": ["{{PROFILE_API_BASE}}"],
+          "path": ["access", "entities"],
+          "query": [
+            {"key": "schema.name", "value": "_xdm.context.profile"},
+            {"key": "entityId", "value": "your.test.profile@example.com", "description": "Replace with your own test profile's @example.com address. Never a real customer."},
+            {"key": "entityIdNS", "value": "email"}
+          ]
+        },
+        "description": "Reads one merged profile by its email. Use a test profile you created yourself."
+      }
+    },
+    {
+      "name": "2. Profile Access API - the same person by your custom namespace",
+      "request": {
+        "method": "GET",
+        "header": [
+          {"key": "Authorization", "value": "Bearer {{ACCESS_TOKEN}}"},
+          {"key": "x-api-key", "value": "{{API_KEY}}"},
+          {"key": "x-gw-ims-org-id", "value": "{{IMS_ORG}}"},
+          {"key": "x-sandbox-name", "value": "{{SANDBOX_NAME}}"}
+        ],
+        "url": {
+          "raw": "{{PROFILE_API_BASE}}/access/entities?schema.name=_xdm.context.profile&entityId=YOUR-TEST-CUSTOMER-NUMBER&entityIdNS=YOUR-NAMESPACE-SYMBOL",
+          "host": ["{{PROFILE_API_BASE}}"],
+          "path": ["access", "entities"],
+          "query": [
+            {"key": "schema.name", "value": "_xdm.context.profile"},
+            {"key": "entityId", "value": "YOUR-TEST-CUSTOMER-NUMBER", "description": "Replace with your test profile's customer number."},
+            {"key": "entityIdNS", "value": "YOUR-NAMESPACE-SYMBOL", "description": "Replace with your custom namespace's symbol (the short code you gave it), not its display name."}
+          ]
+        },
+        "description": "Reads the same person by a second identity. If both requests return one profile, the identity design links the two systems."
+      }
+    }
+  ],
+  "variable": [
+    {"key": "ACCESS_TOKEN", "value": ""},
+    {"key": "API_KEY", "value": ""},
+    {"key": "IMS_ORG", "value": ""},
+    {"key": "SANDBOX_NAME", "value": ""},
+    {"key": "PROFILE_API_BASE", "value": "https://platform.adobe.io/data/core/ups"}
+  ]
+}
