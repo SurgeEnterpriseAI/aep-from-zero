@@ -1,6 +1,6 @@
 # Episode 12: Adobe Web SDK, Datastreams & AEP Destinations
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 12 on YouTube](https://youtu.be/xSQrFBW7eX8)
 
 [Previous](../ep11-batch-vs-streaming-vs-edge-segmentation-in-aep/) · [Next](../ep13-aep-data-governance-dule-labels-policies/)
 

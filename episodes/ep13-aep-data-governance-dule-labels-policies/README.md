@@ -1,6 +1,6 @@
 # Episode 13: AEP Data Governance: DULE Labels and Policies
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 13 on YouTube](https://youtu.be/SiBHW6aFvU8)
 
 [Previous](../ep12-adobe-web-sdk-datastreams-aep-destinations/) · [Next](../ep14-aep-api-tutorial-with-postman-debug-and-rca/)
 

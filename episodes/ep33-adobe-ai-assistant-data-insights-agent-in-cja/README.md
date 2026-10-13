@@ -58,7 +58,7 @@ As this series frames it, **Agent Orchestrator** is a reasoning engine, speciali
 |---|---|
 | Line, Multi-line, Freeform table, Bar, Donut, Summary number | Flow, Fallout, Cohort table, attribution (and others) |
 
-- **The tangle (October 2026):** Adobe's pages give Data Insights Agent access "through February 28, 2026" and "through March 31, 2026"; both have passed, and Adobe points to licensing Agent Orchestrator. **CX Enterprise Coworker** went generally available on 10 June 2026, standalone or as an add-on. In Bloom's login, the CJA header icon says **Ask Coworker**, and a banner calls Coworker "an evolution of AI Assistant". Adobe does not say whether Coworker replaces AI Assistant or the Data Insights Agent.
+- **The tangle (October 2026):** Adobe's pages give Data Insights Agent access "through February 28, 2026" and "through March 31, 2026"; both have passed, and Adobe points to licensing Agent Orchestrator. **CX Enterprise Coworker** went generally available on 10 June 2026, standalone or as an add-on. In Bloom's login, the CJA header icon says **Ask Coworker**, and a banner calls Coworker "an evolution of AI Assistant". Adobe's Coworker Chat overview (26 September 2026) now says "AI Assistant is evolving into Coworker Chat", and organisations move "on a rolling basis", so your own login tells you where you are.
 - **The rule:** what your own login shows is the fact. Screenshot it, with the date.
 
 ### 6. Generated subject lines: keep two, explain three

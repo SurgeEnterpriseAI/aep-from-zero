@@ -1,6 +1,6 @@
 # Episode 07: AEP Identity Stitching and the Identity Graph
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 7 on YouTube](https://youtu.be/iEQupG9yHMc)
 
 [Previous](../ep06-aep-batch-loaded-0-rows-partial-ingestion-fix/) · [Next](../ep08-aep-real-time-customer-profile-merge-policy/)
 

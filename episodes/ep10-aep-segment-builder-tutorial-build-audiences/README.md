@@ -1,6 +1,6 @@
 # Episode 10: AEP Segment Builder Tutorial: Build Audiences
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 10 on YouTube](https://youtu.be/j4u9gy1QlBY)
 
 [Previous](../ep09-aep-no-profiles-found-debug-an-empty-profile/) · [Next](../ep11-batch-vs-streaming-vs-edge-segmentation-in-aep/)
 

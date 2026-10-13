@@ -1,6 +1,6 @@
 # Episode 21: Abandoned Cart Journey in AJO, Step by Step
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 21 on YouTube](https://youtu.be/CvcLbZqFkLI)
 
 Part 2: Speak to your customer (Adobe Journey Optimizer) · [Previous](../ep20-ajo-personalization-tutorial-fallback-if-else/) · [Next](../ep22-offer-decisioning-in-ajo-eligibility-ranking/)
 

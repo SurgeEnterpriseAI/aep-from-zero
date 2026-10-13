@@ -1,6 +1,6 @@
 # Episode 17: Build a Journey in AJO: Optimize, Action, Wait
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 17 on YouTube](https://youtu.be/i6vlZRjfu3Q)
 
 [Previous](../ep16-adobe-journey-optimizer-tutorial-for-beginners/) · [Next](../ep18-ajo-test-mode-vs-simulation-vs-dry-run-vs-proof/)
 

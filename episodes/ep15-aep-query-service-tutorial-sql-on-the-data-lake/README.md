@@ -1,6 +1,6 @@
 # Episode 15: AEP Query Service Tutorial: SQL on the Data Lake
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 15 on YouTube](https://youtu.be/CEOebzq0tiw)
 
 [Previous](../ep14-aep-api-tutorial-with-postman-debug-and-rca/) · [Next](../ep16-adobe-journey-optimizer-tutorial-for-beginners/)
 

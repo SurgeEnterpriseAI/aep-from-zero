@@ -1,6 +1,6 @@
 # Episode 22: Offer Decisioning in AJO: Eligibility & Ranking
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 22 on YouTube](https://youtu.be/xFgmrre3jko)
 
 [Previous](../ep21-abandoned-cart-journey-in-ajo-step-by-step/) · [Next](../ep23-ajo-frequency-capping-quiet-hours-suppression/)
 

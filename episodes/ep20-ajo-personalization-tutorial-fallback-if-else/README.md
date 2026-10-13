@@ -1,6 +1,6 @@
 # Episode 20: AJO Personalization Tutorial: Fallback, If-Else
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 20 on YouTube](https://youtu.be/RjmEktWVEtw)
 
 [Previous](../ep19-ajo-fragments-email-designer-one-brand-voice/) · [Next](../ep21-abandoned-cart-journey-in-ajo-step-by-step/)
 

@@ -1,6 +1,6 @@
 # Episode 09: AEP 'No Profiles Found'? Debug an Empty Profile
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 9 on YouTube](https://youtu.be/nCLMA7GrBCw)
 
 [Previous](../ep08-aep-real-time-customer-profile-merge-policy/) · [Next](../ep10-aep-segment-builder-tutorial-build-audiences/)
 

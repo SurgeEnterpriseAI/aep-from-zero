@@ -1,6 +1,6 @@
 # Episode 23: AJO Frequency Capping, Quiet Hours, Suppression
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 23 on YouTube](https://youtu.be/ARPUG0Jhr68)
 
 [Previous](../ep22-offer-decisioning-in-ajo-eligibility-ranking/) · [Next](../ep24-ajo-journey-not-sending-triage-with-step-events/)
 

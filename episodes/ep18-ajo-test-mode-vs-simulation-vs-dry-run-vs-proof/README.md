@@ -1,6 +1,6 @@
 # Episode 18: AJO Test Mode vs Simulation vs Dry Run vs Proof
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 18 on YouTube](https://youtu.be/VnDxxqRdxEY)
 
 [Previous](../ep17-build-a-journey-in-ajo-optimize-action-wait/) · [Next](../ep19-ajo-fragments-email-designer-one-brand-voice/)
 

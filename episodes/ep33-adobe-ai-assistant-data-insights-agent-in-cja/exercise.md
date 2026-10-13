@@ -25,7 +25,7 @@ You will write ten questions about Bloom's build with their true answers before 
 5. **Untangle the names.** For each statement, mark it **Adobe says**, **a login showed**, or **nobody has said**:
    - a. AI Assistant in CJA includes the Data Insights Agent.
    - b. The CJA header icon is labelled Ask Coworker.
-   - c. CX Enterprise Coworker replaces AI Assistant.
+   - c. AI Assistant is evolving into Coworker Chat.
    - d. Data Insights Agent access was given through 28 February 2026 and through 31 March 2026.
    - e. The Create project banner calls Coworker "an evolution of AI Assistant".
 6. **The episode's practice question.** Say an assistant tells you that 120 people sit in both Lapsed 90 and Window Shoppers. What is your verdict, and how do you prove it?
@@ -98,7 +98,7 @@ Any answer that says otherwise gets the verdict **wrong**; one that is right but
 **Task 5: the names**
 - a. Adobe says.
 - b. A login showed (October 2026).
-- c. Nobody has said. Adobe does not say whether Coworker replaces AI Assistant or the Data Insights Agent.
+- c. Adobe says (Coworker Chat overview, 26 September 2026). Organisations move on a rolling basis, so your own login shows whether yours has moved.
 - d. Adobe says (both dates appear on Adobe's pages, and both have passed).
 - e. A login showed.
 

@@ -1,6 +1,6 @@
 # Episode 11: Batch vs Streaming vs Edge Segmentation in AEP
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 11 on YouTube](https://youtu.be/PJGA2T45FcU)
 
 [Previous](../ep10-aep-segment-builder-tutorial-build-audiences/) · [Next](../ep12-adobe-web-sdk-datastreams-aep-destinations/)
 

@@ -1,6 +1,6 @@
 # Episode 24: AJO Journey Not Sending? Triage With Step Events
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 24 on YouTube](https://youtu.be/WF6rkwBKP9g)
 
 [Previous](../ep23-ajo-frequency-capping-quiet-hours-suppression/) · [Next](../ep25-customer-journey-analytics-tutorial-person-id/)
 

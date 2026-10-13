@@ -1,6 +1,6 @@
 # Episode 08: AEP Real-Time Customer Profile & Merge Policy
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 8 on YouTube](https://youtu.be/05wGgS9nRIM)
 
 [Previous](../ep07-aep-identity-stitching-identity-graph/) · [Next](../ep09-aep-no-profiles-found-debug-an-empty-profile/)
 

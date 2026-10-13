@@ -1,6 +1,6 @@
 # Episode 14: AEP API Tutorial With Postman: Debug and RCA
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 14 on YouTube](https://youtu.be/wnEOmQsoghE)
 
 [Previous](../ep13-aep-data-governance-dule-labels-policies/) · [Next](../ep15-aep-query-service-tutorial-sql-on-the-data-lake/)
 

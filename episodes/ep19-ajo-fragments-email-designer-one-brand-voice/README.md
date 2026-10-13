@@ -1,6 +1,6 @@
 # Episode 19: AJO Fragments & Email Designer: One Brand Voice
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 19 on YouTube](https://youtu.be/dG-Dk6OH8OY)
 
 [Previous](../ep18-ajo-test-mode-vs-simulation-vs-dry-run-vs-proof/) · [Next](../ep20-ajo-personalization-tutorial-fallback-if-else/)
 

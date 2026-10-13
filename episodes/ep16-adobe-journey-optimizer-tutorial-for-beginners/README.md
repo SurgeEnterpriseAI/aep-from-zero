@@ -1,6 +1,6 @@
 # Episode 16: Adobe Journey Optimizer Tutorial for Beginners
 
-**Watch:** Video coming soon on iTV
+**Watch:** [Watch episode 16 on YouTube](https://youtu.be/ZLuEwSspNbQ)
 
 [Previous](../ep15-aep-query-service-tutorial-sql-on-the-data-lake/) · [Next](../ep17-build-a-journey-in-ajo-optimize-action-wait/)
 
